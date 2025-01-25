@@ -45,11 +45,13 @@ interests:
   - Geographic Information Technology
 
 education:
-  - area: Master's degree in Territorial Management
+  - area: M.Sc in Territorial Management
     institution: Universidad de Sevilla
+    year: 2020
 
-  - area: Bachelor's degree in Geography and Territorial Management
+  - area: B.Sc in Geography
     institution: Universidad de Sevilla
+    year: 2019
    
 work:
   - position: Director of Cloud Infrastructure
