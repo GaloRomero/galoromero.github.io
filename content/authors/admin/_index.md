@@ -115,7 +115,7 @@ skills:
       - name: Natural Sciences
         description: ''
         percent: 80
-        icon: leaf
+        icon: globe
 
 languages:
   - name: English
