@@ -68,7 +68,7 @@ work:
       - Design and maintenance of online databases using Bootstrap Table, HTML5 and CSS3
       - Perform statistical and spatial analysis using the R programming language
       - Data management and analysis with Pandas in Python
-      - Teaching Computer Applications in Archaeology and Statistics for the Bachelor of Archaeology at the Universidad de Sevilla
+      - Teaching Computer Applications in Archaeology and Statistics for the Bachelor of Archaeology at the [Universidad de Sevilla](https://www.us.es/)
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
