@@ -112,10 +112,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Natural Sciences
         description: ''
         percent: 80
-        icon: camera
+        icon: leaf
 
 languages:
   - name: English
