@@ -62,13 +62,7 @@ work:
     date_end: 'Present'
     summary: |2-
       Responsibilities include:
-      - Develop and manage PostgreSQL relational databases.
-      - Create and implement web mapping applications using Leaflet.
-      - Generate and handle RDF and INSPIRE metadata.
-      - Design and maintain online databases utilizing Bootstrap Table, HTML5, and CSS3.
-      - Perform statistical and spatial analysis using the R programming language.
-      - Manage and analyze data with Pandas in Python.
-      - Teach computer applications in archaeology and statistics for the Bachelor's degree in Archaeology at the University of Seville.
+      
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
