@@ -176,4 +176,4 @@ awards:
 
 ## About Me
 
-Data curator at [Ministerio de Universidades](https://www.universidades.gob.es/). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
+Data curator at the [Ministerio de Universidades](https://www.universidades.gob.es/). I am currently involved in several research projects that involve the management of large amounts of datasets in line with the Open Science movement and the FAIR principles.
