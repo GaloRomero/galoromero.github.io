@@ -54,15 +54,17 @@ education:
     year: 2019
    
 work:
-  - position: Data Scientist
-    company_name: Ministerio de Ciencia, Innovación y Universidades
-    company_url: 'https://www.ciencia.gob.es/'
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: '2021-12-01'
-    date_end: 'Present'
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
-      
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
