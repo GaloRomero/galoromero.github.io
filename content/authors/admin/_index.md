@@ -3,11 +3,11 @@
 title: Galo Romero García
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Galo
+last_name: Romero García
 
 # Status emoji
 status:
