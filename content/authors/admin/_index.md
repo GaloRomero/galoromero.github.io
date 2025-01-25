@@ -45,7 +45,7 @@ interests:
   - Geographic Information Technology
 
 education:
-  - area: M.Sc in Territorial Management
+  - area: M.Sc in Geography
     institution: Universidad de Sevilla
     year: 2020
 
