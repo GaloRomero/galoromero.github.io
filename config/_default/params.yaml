@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Galo Romero García"
+      text: "Academic CV"
 
 # Site footer
 footer:
