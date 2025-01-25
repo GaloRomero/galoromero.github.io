@@ -69,17 +69,17 @@ work:
       - Perform statistical and spatial analysis using the R programming language
       - Data management and analysis with Pandas in Python
       - Teaching Computer Applications in Archaeology and Statistics for the Bachelor of Archaeology at the [Universidad de Sevilla](https://www.us.es/)
-  - position: Backend Software Engineer
-    company_name: X
+  - position: R&D Technician
+    company_name: European Commission
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-11-15
+    date_end: 2021-11-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data collection
+      - PostgreSQL relational database development
+      - Database modelling
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
