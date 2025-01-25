@@ -40,9 +40,9 @@ profiles:
     url: https://orcid.org/0000-0002-1533-5781
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Curation
+  - Relational Databases
+  - Geographic Information Technology
 
 education:
   - area: PhD Artificial Intelligence
