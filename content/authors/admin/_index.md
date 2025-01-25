@@ -48,7 +48,7 @@ education:
   - area: M.Sc in Geography
     institution: Universidad de Sevilla
     year: 2020
-
+<br>
   - area: B.Sc in Geography
     institution: Universidad de Sevilla
     year: 2019
