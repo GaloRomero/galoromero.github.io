@@ -129,10 +129,10 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Extraordinary master's degree award
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios
     date: '2021-01-01'
     awarder: Universidad de Sevilla
-    icon: prize
+    icon: award
     summary: |
       I have been awarded the Extraordinary Master's Degree Award for my outstanding academic performance in Geography, specialising in Database Management and Geographic Information Systems (GIS). This award recognises my outstanding achievements in mastering the intricacies of spatial data management, analysis and the application of GIS tools to address geographical and environmental challenges.
   
