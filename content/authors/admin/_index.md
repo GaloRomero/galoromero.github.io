@@ -54,17 +54,21 @@ education:
     year: 2019
    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Data Scientist
+    company_name: Ministerio de Ciencia, Innovación y Universidades
+    company_url: 'https://www.ciencia.gob.es/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: '2021-12-01'
+    date_end: 'Present'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop and manage PostgreSQL relational databases.
+      - Create and implement web mapping applications using Leaflet.
+      - Generate and handle RDF and INSPIRE metadata.
+      - Design and maintain online databases utilizing Bootstrap Table, HTML5, and CSS3.
+      - Perform statistical and spatial analysis using the R programming language.
+      - Manage and analyze data with Pandas in Python.
+      - Teach computer applications in archaeology and statistics for the Bachelor's degree in Archaeology at the University of Seville.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
