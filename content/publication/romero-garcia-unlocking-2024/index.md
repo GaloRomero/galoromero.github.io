@@ -13,7 +13,6 @@ publishDate: '2025-01-25T18:09:28.836055Z'
 publication_types:
 - article-journal
 publication: '*Antiquity*'
-doi: 10.15184/aqy.2024.2
 abstract: PEPAdb (Prehistoric Europe’s Personal Adornment Database) is a long-term,
   open-ended project that aims to improve access to archaeological data online. Its
   website (https://pepadb.us.es) publishes and analyses datasets about prehistoric

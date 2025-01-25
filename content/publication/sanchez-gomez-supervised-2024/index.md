@@ -15,7 +15,6 @@ publishDate: '2025-01-25T18:09:28.861580Z'
 publication_types:
 - article-journal
 publication: '*PLOS ONE*'
-doi: 10.1371/journal.pone.0302563
 abstract: 'Research on personal adornments depends on the reliable characterisation
   of materials to trace provenance and model complex social networks. However, many
   analytical techniques require the transfer of materials from the museum to the laboratory,

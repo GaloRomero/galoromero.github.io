@@ -16,7 +16,6 @@ publishDate: '2025-01-25T18:09:28.846412Z'
 publication_types:
 - article-journal
 publication: '*Journal of Archaeological Science: Reports*'
-doi: 10.1016/j.jasrep.2024.104647
 abstract: In recent years, significant advancements have occurred in our comprehension
   of amber consumption patterns in the Iberian Peninsula. This progress stems from
   the increasing volume of FTIR data related to both archaeological and geological

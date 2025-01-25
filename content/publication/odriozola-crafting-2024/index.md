@@ -18,7 +18,6 @@ publishDate: '2025-01-25T18:09:28.854112Z'
 publication_types:
 - article-journal
 publication: '*Journal of Archaeological Science*'
-doi: 10.1016/j.jas.2024.106011
 abstract: The discovery of a set of beads, comprising both Sicilian amber and resin-coated
   beads in the Middle Bronze Age burial site of Cova del Gegant (Sitges, Barcelona,
   Spain), has sparked inquiries into whether the coating was intended for imitation
