@@ -47,11 +47,13 @@ interests:
 education:
   - area: M.Sc in Geography
     institution: Universidad de Sevilla
-    year: 2020
+    date_start: 2019-10-15
+    date_end: 2020-07-31
 
   - area: B.Sc in Geography
     institution: Universidad de Sevilla
-    year: 2019
+    date_start: 2015-09-15
+    date_end: 2019-07-31
    
 work:
   - position: Data Scientist
