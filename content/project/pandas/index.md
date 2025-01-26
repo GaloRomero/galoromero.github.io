@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+IberAmber is a project conceived and designed in a multidisciplinary way, using chemical-analytical techniques, classical statistical methods and more modern approaches such as machine learning to deepen the archaeological knowledge of amber trade and exchange.
 
 <!--more-->
