@@ -11,7 +11,6 @@ design:
 # Page sections
 sections:
   - block: resume-experience
-    id: experience
     content:
       username: admin
     design:
