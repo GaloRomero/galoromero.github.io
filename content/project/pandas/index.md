@@ -1,6 +1,6 @@
 ---
 title: Arqueología de las falsificaciones y la percepción
-date: 2023-10-26
+date: 2025-08-31
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Hugo
