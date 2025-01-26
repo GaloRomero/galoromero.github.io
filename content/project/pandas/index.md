@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-IberAmber is a project conceived and designed in a multidisciplinary way, using chemical-analytical techniques, classical statistical methods and more modern approaches such as machine learning to deepen the archaeological knowledge of amber trade and exchange.
+IberAmber uses diverse techniques, including machine learning, to study amber's archaeological trade.
 
 <!--more-->
