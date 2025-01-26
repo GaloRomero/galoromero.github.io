@@ -10,4 +10,10 @@ You can view my website by clicking the link below:
 
 [Visit My Professional Website](https://galoromero.github.io/)
 
+### Project Section Icons
+
+The icons used in the project section are from [Flaticon](https://www.flaticon.com/). Specific icons include the following:
+- [Gem icons created by Kason Koo](https://www.flaticon.com/free-icons/gem)
+- [Database icons created by Eucalyp](https://www.flaticon.com/free-icons/database)
+- [Data collection icons created by Nuricon](https://www.flaticon.com/free-icons/data-collection)
 ---
