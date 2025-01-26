@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Galo Romero García
+header:
+  image: "avatar.jpg"
 
 # Full name (for SEO)
 first_name: Galo
