@@ -6,6 +6,9 @@ title: Galo Romero García
 first_name: Galo
 last_name: Romero García
 
+# Custom header image (change this to your own image path)
+header_image: avatar.jpg
+
 # Status emoji
 status:
   icon: 😺
