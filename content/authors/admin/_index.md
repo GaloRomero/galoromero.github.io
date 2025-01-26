@@ -98,7 +98,7 @@ skills:
         icon: chart-bar
       - name: Python
         description: ''
-        percent: 60
+        percent: 70
         icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
@@ -106,7 +106,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -114,7 +114,7 @@ skills:
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 70
         icon: camera
 
 languages:
