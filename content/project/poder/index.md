@@ -1,5 +1,5 @@
 ---
-title: Investigación y desarrollo de nuevas tecnologías para el discurso del poder
+title: Desarrollo de nuevas tecnologías para el discurso del poder
 date: 2021-10-05
 external_link: https://prisma.us.es/financiacion/14775
 ---
