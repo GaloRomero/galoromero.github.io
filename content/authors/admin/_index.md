@@ -4,7 +4,7 @@ title: Galo Romero García
 
 # Full name (for SEO)
 first_name: Galo
-last_name: 
+
 
 # Status emoji
 status:
