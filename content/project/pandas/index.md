@@ -1,11 +1,9 @@
 ---
 title: Local amber and amber networks in the Prehistory of Iberia
 date: 2023-03-01
-external_link: https://doi.org/10.54499/2022.09207.PTDC
+external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - IberAmber
 ---
 
 IberAmber uses diverse techniques, including machine learning, to study amber's archaeological trade.
