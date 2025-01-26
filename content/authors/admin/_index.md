@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Galo Romero
+title: Galo Romero García
 
 # Full name (for SEO)
 first_name: Galo
