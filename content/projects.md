@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: R&D Projects
       text: I am currently involved in several research projects dealing with the management of large datasets, in line with the Open Science movement and the FAIR principles. 
       filters:
         folders:
