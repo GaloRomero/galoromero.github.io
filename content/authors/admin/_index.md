@@ -1,13 +1,12 @@
 ---
 # Display name
 title: Galo Romero García
-
+  header:
+  image: "avatar.jpg"
+  
 # Full name (for SEO)
 first_name: Galo
 last_name: Romero García
-
-# Custom header image (change this to your own image path)
-header_image: avatar.jpg
 
 # Status emoji
 status:
