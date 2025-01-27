@@ -139,4 +139,8 @@ awards:
 
 ## About Me
 
+<div style="text-align: justify;">
+
 Data Scientist at the [Ministerio de Ciencia, Innovación y Universidades](https://www.ciencia.gob.es/). My academic background, combined with five years of university experience, has allowed me to develop advanced technical skills and a rigorous analytical approach. To this day, I am actively involved in various R&D projects which allow me to work closely with high level research teams. I have also had the privilege of being a lecturer on a university course in statistical programming for 3 years. This experience not only deepened my knowledge, but also honed my ability to communicate complex ideas clearly and effectively. Finally, I am a member of the [Quantitative Archaeology and Archaeological Science](https://prisma.us.es/colectivo/grupo/HUM-1085) Research Group.
+
+</div>
