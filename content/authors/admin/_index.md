@@ -133,6 +133,7 @@ awards:
     date: '2021-01-01'
     awarder: Universidad de Sevilla
     icon: award
+    icon_pack: custom
     summary: |
       I have been awarded the Extraordinary Master's Degree Award for my outstanding academic performance in Geography, specialising in Database Management and Geographic Information Systems (GIS). This award recognises my outstanding achievements in mastering the intricacies of spatial data management, analysis and the application of GIS tools to address geographical and environmental challenges.
   
