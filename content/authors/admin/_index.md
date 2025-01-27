@@ -38,6 +38,8 @@ profiles:
     url: https://scholar.google.es/citations?user=3bs9N7IAAAAJ&hl=es
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1533-5781
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=58860498600
 
 interests:
   - Data Curation
