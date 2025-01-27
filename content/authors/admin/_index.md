@@ -132,7 +132,7 @@ awards:
     url: https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios
     date: '2021-01-01'
     awarder: Universidad de Sevilla
-    icon: "icons/award"
+    icon: one
     summary: |
       I have been awarded the Extraordinary Master's Degree Award for my outstanding academic performance in Geography, specialising in Database Management and Geographic Information Systems (GIS). This award recognises my outstanding achievements in mastering the intricacies of spatial data management, analysis and the application of GIS tools to address geographical and environmental challenges.
   
