@@ -100,7 +100,7 @@ skills:
         icon: chart-bar
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
