@@ -163,7 +163,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: University lecturer contract 🎓
-    url: https://www.ciencia.gob.es/Convocatorias/2020/FPU2020.html
+    url: https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-predoctorales-formacion-doctoresas-2020
     date: '2021-12-01'
     awarder: Ministerio de Ciencia, Innovación y Universidades
     summary: |
