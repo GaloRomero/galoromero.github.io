@@ -98,6 +98,15 @@ work:
       - Database management and maintenance, ensuring data accuracy and accessibility
       - Support project development by researching and analysing bibliographic references
   - position: Geographic Information Systems Technician
+    company_name: Ministerio de Educación y Formación Profesional
+    company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
+    company_logo: ''
+    date_start: 2019-10-15
+    date_end: 2020-06-15
+    summary: |
+      Responsibilities include:
+      - Digitisation of protected natural areas in Andalusia (Spain) using GIS software
+  - position: Geographic Information Systems Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
     company_logo: ''
