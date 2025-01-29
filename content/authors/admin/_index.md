@@ -84,7 +84,7 @@ work:
       - Data collection
       - PostgreSQL relational database development
       - Database modelling
-  - position: Geographic Information Systems Technician
+  - position: Geographical Information Systems Technician
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
     company_logo: ''
@@ -97,7 +97,7 @@ work:
       - Spatial analysis and mapping using ArcGIS and QGIS
       - Database management and maintenance, ensuring data accuracy and accessibility
       - Support project development by researching and analysing bibliographic references
-  - position: Geographic Information Systems Technician
+  - position: Geographical Information Systems Technician
     company_name: Ministerio de Educación y Formación Profesional
     company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
     company_logo: ''
@@ -106,7 +106,7 @@ work:
     summary: |
       Responsibilities include:
       - Digitisation of protected natural areas in Andalusia (Spain) using GIS software
-  - position: Geographic Information Systems Technician
+  - position: Geographical Information Systems Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
     company_logo: ''
