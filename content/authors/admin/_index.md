@@ -84,6 +84,29 @@ work:
       - Data collection
       - PostgreSQL relational database development
       - Database modelling
+  - position: GIS Technician
+    company_name: Evenor-Tech
+    company_url: 'https://evenor-tech.com/'
+    company_logo: ''
+    date_start: 2020-02-15
+    date_end: 2020-06-15
+    summary: |
+      Responsibilities include:
+      - Performed statistical analysis using SPSS and R 
+      - Preparation and writing of scientific and technical reports 
+      - Spatial analysis and mapping using ArcGIS and QGIS
+      - Database management and maintenance, ensuring data accuracy and accessibility
+      - Support project development by researching and analysing bibliographic references
+  - position: GIS Technician
+    company_name: Geographica
+    company_url: 'https://geographica.carto.com/maps'
+    company_logo: ''
+    date_start: 2019-04-15
+    date_end: 2019-06-15
+    summary: |
+      Responsibilities include:
+      - Edited, corrected, and updated files in various formats using GIS software
+      - Spatial database management and analysis using SQL for geospatial data extraction and processing.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
