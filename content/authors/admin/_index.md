@@ -84,7 +84,7 @@ work:
       - Data collection
       - PostgreSQL relational database development
       - Database modelling
-  - position: GIS Technician
+  - position: Geographic Information Systems Technician
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
     company_logo: ''
@@ -97,7 +97,7 @@ work:
       - Spatial analysis and mapping using ArcGIS and QGIS
       - Database management and maintenance, ensuring data accuracy and accessibility
       - Support project development by researching and analysing bibliographic references
-  - position: GIS Technician
+  - position: Geographic Information Systems Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
     company_logo: ''
