@@ -55,7 +55,7 @@ jobs:
       run: npx pagefind --site "public"
     - name: Upload artifact
       uses: actions/upload-artifact@v4
-      with:
+      with: 
         path: ./public
 
   # Deploy website to GitHub Pages hosting
