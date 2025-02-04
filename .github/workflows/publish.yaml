@@ -53,10 +53,15 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+      
+    # Inserted step to print github.workspace
+    - name: Print the workspace path
+      run: echo "Workspace path is: ${{ github.workspace }}"
+
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        path: ${{ galoromero.github.io }}/content/static/uploads/resumeGalo.pdf
+        path: ${{ github.workspace }}/content/static/uploads/resumeGalo.pdf  # Corrected path
 
   # Deploy website to GitHub Pages hosting
   deploy:
