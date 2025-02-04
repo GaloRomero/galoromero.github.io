@@ -54,7 +54,7 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v4 # Use v4 instead of v3
+      uses: actions/upload-pages-artifact@v3 # Use v3
       with:
         path: ./public
 
