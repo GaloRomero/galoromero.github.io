@@ -32,14 +32,6 @@ jobs:
         hugo-version: ${{ env.WC_HUGO_VERSION }}
         extended: true
 
-    - name: Setup Cache
-      uses: actions/cache@v3
-      with:
-        path: /tmp/hugo_cache_runner/
-        key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
-        restore-keys: |
-          ${{ runner.os }}-hugomod-
-
     - name: Setup GitHub Pages
       id: pages
       uses: actions/configure-pages@v3
@@ -52,28 +44,23 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" || { echo "❌ Hugo build failed!"; exit 1; }
         echo "✅ Hugo build completed!"
 
-    # 🔍 Step 1: Check if 'public/' was created
-    - name: Debug - Verify Hugo Output
+    - name: Debug - List Public Directory
       run: |
-        echo "🔍 Checking if public/ directory exists..."
+        echo "🔍 Checking if public/ directory exists before upload..."
         if [ -d "./public" ]; then
           echo "✅ Public directory exists. Listing contents:"
           ls -la ./public
         else
-          echo "❌ Public directory NOT found! Hugo build might have failed."
+          echo "❌ ERROR: Public directory NOT found!"
           exit 1
         fi
 
-    - name: Generate Pagefind Search Index
-      run: npx pagefind --site "public"
-
-    # 🔍 Step 2: Upload artifact correctly
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
         name: github-pages
         path: public
-        if-no-files-found: error  # 🔥 Ensures failure if no files found
+        if-no-files-found: error  # Ensures failure if missing
 
   deploy:
     needs: build
@@ -88,7 +75,6 @@ jobs:
         name: github-pages
         path: ./public
 
-    # 🔍 Step 3: Check if artifact is downloaded
     - name: Debug - Check Downloaded Files
       run: |
         echo "🔍 Checking if public/ directory exists after artifact download..."
@@ -96,7 +82,7 @@ jobs:
           echo "✅ Public directory exists in deploy step. Listing contents:"
           ls -la ./public
         else
-          echo "❌ Public directory NOT found in deploy step!"
+          echo "❌ ERROR: Public directory NOT found in deploy step!"
           exit 1
         fi
 
