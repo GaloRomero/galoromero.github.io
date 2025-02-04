@@ -51,12 +51,6 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-    
-    # Debugging step to list files in 'public' folder after Hugo build
-    - name: List files in public folder (debugging)
-      run: |
-      echo "Listing contents of the public folder..."
-      ls -R ./public  # List the files in the 'public' folder to see if it's created
 
      - name: Generate Pagefind search index
        run: npx pagefind --site "public"
