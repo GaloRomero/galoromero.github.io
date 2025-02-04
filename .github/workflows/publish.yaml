@@ -48,11 +48,13 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    - name: Debug public directory
+      run: ls -R ./public
     - name: Upload artifact
-      uses: actions/upload-artifact@v4  # Updated to v4
+      uses: actions/upload-artifact@v4
       with:
         path: ./public
-        name: website
+        name: hugo-website  # Custom name
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -63,10 +65,12 @@ jobs:
     needs: build
     steps:
     - name: Download artifact
-      uses: actions/download-artifact@v4  # Updated to v4
+      uses: actions/download-artifact@v4
       with:
-        name: website
+        name: hugo-website  # Must match the name used in upload-artifact
         path: ./public
+    - name: Debug downloaded artifact
+      run: ls -R ./public
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
