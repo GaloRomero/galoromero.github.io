@@ -54,13 +54,13 @@ jobs:
             echo "✅ Hugo build completed successfully!"
           else
             echo "❌ ERROR: Hugo build failed!"
-            exit 1  # Stop workflow on failure
+            exit 1
           fi
 
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
 
-      # ✅ Debug: Verify if public/ directory exists before uploading
+      # ✅ Debug: Verify if public/ exists before uploading
       - name: Debug - Check if public directory exists
         run: |
           if [ -d "public" ]; then
@@ -68,15 +68,15 @@ jobs:
             ls -al public
           else
             echo "❌ ERROR: 'public/' directory does NOT exist!"
-            exit 1  # Stop workflow early if Hugo didn't generate the site
+            exit 1
           fi
 
-      # ✅ Upload built site as an artifact
+      # ✅ Upload artifact with correct name "github-pages"
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         with:
-          name: artifact  # Name the artifact correctly
-          path: ./public  # Ensure Hugo outputs here
+          path: ./public  # Must be correct for GitHub Pages
+          name: github-pages  # This is REQUIRED by deploy step!
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -86,24 +86,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      # ✅ Download the artifact before deployment
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: artifact  # Must match uploaded artifact name
-          path: ./public
-
-      # ✅ Debug: Check if public/ directory exists before deploying
-      - name: Debug - Verify public directory before deploy
-        run: |
-          if [ -d "public" ]; then
-            echo "✅ 'public/' directory exists. Listing files:"
-            ls -al public
-          else
-            echo "❌ ERROR: 'public/' directory is MISSING!"
-            exit 1  # Stop deployment if files are missing
-          fi
-
+      # ✅ Deploy using the correct artifact name
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
