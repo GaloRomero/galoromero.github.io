@@ -28,7 +28,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -50,17 +49,21 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-    - name: List contents of the public directory
+    - name: Verify public folder exists and list contents
       run: |
-        echo "Listing files in the public directory:"
-        ls -al ./public
+        echo "Verificando si la carpeta public existe y tiene archivos"
+        ls -al ./public  # Verificar la existencia de la carpeta y su contenido
+        if [ ! -d "./public" ]; then
+          echo "ERROR: La carpeta 'public' no existe"
+          exit 1  # Si no existe la carpeta, fallamos la acción
+        fi
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: github-pages  # Artifact name
-        path: ./public  # Make sure this folder exists and contains files
+        name: github-pages  # Nombre del artefacto
+        path: ./public  # Asegúrate de que esta ruta sea correcta
 
   # Deploy website to GitHub Pages hosting
   deploy:
@@ -68,10 +71,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build  # This ensures deployment happens only after build completes
+    needs: build  # Este paso solo se ejecuta después del build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2 
         with:
-          artifact_name: github-pages  # Ensure this name matches the one in upload-artifact
+          artifact_name: github-pages  # Debe coincidir con el nombre del artefacto de subida
