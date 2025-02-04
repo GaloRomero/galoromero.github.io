@@ -62,7 +62,7 @@ jobs:
       run: npx pagefind --site "public"
 
     - name: Upload artifact to GitHub
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v4  # Mantén la versión más reciente aquí
       with:
         name: github-pages  # Asegúrate de que el nombre sea el mismo en el paso de deploy
         path: ./public  # Verifica si la carpeta pública está generada correctamente
@@ -75,7 +75,7 @@ jobs:
       name: github-pages
     steps:
       - name: Download artifact from build step
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3  # Actualizamos a la versión más reciente (v3)
         with:
           name: github-pages  # El nombre debe coincidir con el del paso anterior
 
