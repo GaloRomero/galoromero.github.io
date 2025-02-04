@@ -50,13 +50,17 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+    - name: List contents of the public directory
+      run: |
+        echo "Listing files in the public directory:"
+        ls -al ./public
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: github-pages  # Ensure this name matches in the deploy step
-        path: ./public  # Make sure this path is correct (the output folder from Hugo)
+        name: github-pages  # Artifact name
+        path: ./public  # Make sure this folder exists and contains files
 
   # Deploy website to GitHub Pages hosting
   deploy:
