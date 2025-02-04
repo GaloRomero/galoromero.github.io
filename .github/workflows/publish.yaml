@@ -49,11 +49,10 @@ jobs:
         HUGO_ENVIRONMENT: production
       run: |
         echo "🛠 Running Hugo build..."
-        echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" || { echo "❌ Hugo build failed!"; exit 1; }
         echo "✅ Hugo build completed!"
 
-    # 🔹 Extra Debugging Step: Check if 'public/' exists
+    # 🔍 Step 1: Check if 'public/' was created
     - name: Debug - Verify Hugo Output
       run: |
         echo "🔍 Checking if public/ directory exists..."
@@ -68,13 +67,13 @@ jobs:
     - name: Generate Pagefind Search Index
       run: npx pagefind --site "public"
 
-    # 🔹 Ensure artifact upload fails if no files are found
+    # 🔍 Step 2: Upload artifact correctly
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
         name: github-pages
         path: public
-        if-no-files-found: error
+        if-no-files-found: error  # 🔥 Ensures failure if no files found
 
   deploy:
     needs: build
@@ -89,7 +88,7 @@ jobs:
         name: github-pages
         path: ./public
 
-    # 🔹 Extra Debugging Step: Verify that artifact is downloaded
+    # 🔍 Step 3: Check if artifact is downloaded
     - name: Debug - Check Downloaded Files
       run: |
         echo "🔍 Checking if public/ directory exists after artifact download..."
