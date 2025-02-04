@@ -4,13 +4,10 @@ env:
   WC_HUGO_VERSION: '0.136.5'
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -21,7 +18,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build website
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
@@ -29,7 +25,6 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
       with:
-        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
 
     - name: Setup Hugo
@@ -54,10 +49,11 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
       run: |
+        echo "🛠 Running Hugo build..."
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" || { echo "❌ Hugo build failed!"; exit 1; }
+        echo "✅ Hugo build completed!"
 
-    # Debugging Step - Verify if the 'public' directory exists
     - name: Debug - Verify Hugo Output
       run: |
         if [ -d "./public" ]; then
@@ -75,9 +71,9 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: github-pages
-        path: ./public
+        path: public
+        if-no-files-found: error  # Fail if no files found
 
-  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
     environment:
@@ -92,7 +88,6 @@ jobs:
         name: github-pages
         path: ./public
 
-    # Debugging Step - Verify if artifact is downloaded
     - name: Debug - Check Downloaded Files
       run: ls -la ./public
 
