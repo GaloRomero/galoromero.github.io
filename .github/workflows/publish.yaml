@@ -29,7 +29,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
+        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -53,6 +53,11 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: github-pages  # This is the artifact name
+        path: ./public
 
   # Deploy website to GitHub Pages hosting
   deploy:
@@ -66,3 +71,5 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
+      with:
+        artifact_name: github-pages  # Make sure this matches the uploaded artifact name
