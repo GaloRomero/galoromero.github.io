@@ -14,7 +14,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # The CV download button has been removed.
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resumeGalo.pdf
     design:
       css_class: dark
       background:
