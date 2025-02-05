@@ -54,9 +54,9 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-artifact@v4.0.0
+      uses: actions/upload-artifact@v4
       with:
-        path: static/uploads/resumeGalo.pdf
+        path: /workspaces/galoromero.github.io/static/uploads/resumeGalo.pdf
 
   # Deploy website to GitHub Pages hosting
   deploy:
