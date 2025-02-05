@@ -12,6 +12,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write  # ✅ Allows GitHub Actions to upload/download artifacts
 
 concurrency:
   group: "pages"
@@ -52,7 +53,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: github-pages  # Ensure this matches the deploy step
+        name: github-pages  # ✅ Ensure this matches download step
         path: ./public
     - name: Verify Upload
       run: echo "✅ Artifact github-pages should now be uploaded!"
@@ -68,10 +69,12 @@ jobs:
     - name: Download artifact
       uses: actions/download-artifact@v4
       with:
-        name: github-pages  # Must match the upload step
+        name: github-pages  # ✅ Ensure the name matches upload
         path: ./public
     - name: Verify Download
       run: ls -la ./public || echo "❌ Artifact not downloaded!"
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Ensures authentication
