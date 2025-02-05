@@ -57,7 +57,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: github-pages  # This is the artifact name
-        path: ./public
+        path: static/uploads/resumeGalo.pdf
 
   # Deploy website to GitHub Pages hosting
   deploy:
