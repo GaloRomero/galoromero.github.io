@@ -46,13 +46,16 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" || exit 1
-    - name: Check if public directory exists
-      run: ls -la ./public  # ✅ Debugging step
+    - name: Debug Hugo Build Output
+      run: |
+        ls -la ./public || echo "❌ Hugo did not generate the public folder!"
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: github-pages  # ✅ Ensure artifact is named correctly
+        name: github-pages  # Ensure this matches the deploy step
         path: ./public
+    - name: Verify Upload
+      run: echo "✅ Artifact github-pages should now be uploaded!"
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
@@ -65,8 +68,10 @@ jobs:
     - name: Download artifact
       uses: actions/download-artifact@v4
       with:
-        name: github-pages  # ✅ Ensure the name matches upload
+        name: github-pages  # Must match the upload step
         path: ./public
+    - name: Verify Download
+      run: ls -la ./public || echo "❌ Artifact not downloaded!"
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
