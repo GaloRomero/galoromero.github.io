@@ -94,7 +94,7 @@ work:
     date_end: 2020-06-15
     summary: |
       Participation in the [CONSOLE](https://cordis.europa.eu/project/id/817949/es) project<br>
-
+ 
       Responsibilities include:
       - Performed statistical analysis using SPSS and R 
       - Preparation and writing of scientific and technical reports 
