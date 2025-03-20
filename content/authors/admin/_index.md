@@ -93,6 +93,8 @@ work:
     date_start: 2020-02-15
     date_end: 2020-06-15
     summary: |
+      Participation in the [CONSOLE](https://cordis.europa.eu/project/id/817949/es) project<br>
+
       Responsibilities include:
       - Performed statistical analysis using SPSS and R 
       - Preparation and writing of scientific and technical reports 
@@ -115,7 +117,7 @@ work:
     date_start: 2019-04-15
     date_end: 2019-06-15
     summary: |
-      Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project
+      Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project<br>
       
       Responsibilities include:
       - Edited, corrected, and updated files in various formats using GIS software
