@@ -115,6 +115,7 @@ work:
     date_start: 2019-04-15
     date_end: 2019-06-15
     summary: |
+      Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project
       Responsibilities include:
       - Edited, corrected, and updated files in various formats using GIS software
       - Spatial database management and analysis using SQL for geospatial data extraction and processing.
