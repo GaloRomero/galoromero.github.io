@@ -21,8 +21,8 @@ role: Geographer | Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Ministerio de Ciencia, Innovación y Universidades
-    url: https://www.ciencia.gob.es/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -63,7 +63,7 @@ work:
     company_url: 'https://www.ciencia.gob.es/'
     company_logo: ''
     date_start: 2021-12-01
-    date_end: ''
+    date_end: '2025-03-01'
     summary: |2-
       Responsibilities include:
       - PostgreSQL relational database development
@@ -190,5 +190,5 @@ awards:
 
 <div style="text-align: justify;">
 
-Data Scientist at the [Ministerio de Ciencia, Innovación y Universidades](https://www.ciencia.gob.es/) of the Spanish Government. My academic background, combined with five years of university experience, has allowed me to develop advanced technical skills and a rigorous analytical approach. To this day, I am actively involved in various R&D projects which allow me to work closely with high level research teams. I have also had the privilege of being a lecturer on a university course in statistical programming for 3 years, in addition to serving as the coordinator responsible for various university-level subjects. This experience not only deepened my knowledge, but also honed my ability to communicate complex ideas clearly and effectively. 
+Data Scientist. My academic background, combined with five years of university experience, has allowed me to develop advanced technical skills and a rigorous analytical approach. To this day, I am actively involved in various R&D projects which allow me to work closely with high level research teams. I have also had the privilege of being a lecturer on a university course in statistical programming for 3 years, in addition to serving as the coordinator responsible for various university-level subjects. This experience not only deepened my knowledge, but also honed my ability to communicate complex ideas clearly and effectively. 
 </div>
