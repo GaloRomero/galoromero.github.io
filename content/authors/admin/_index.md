@@ -189,6 +189,5 @@ awards:
 ## About Me
 
 <div style="text-align: justify;">
-
-My academic background, combined with five years of university experience, has allowed me to develop advanced technical skills and a rigorous analytical approach. To this day, I am actively involved in various R&D projects which allow me to work closely with high level research teams. I have also had the privilege of being a lecturer on a university course in statistical programming for 3 years, in addition to serving as the coordinator responsible for various university-level subjects. This experience not only deepened my knowledge, but also honed my ability to communicate complex ideas clearly and effectively. 
+My academic background, combined with five years of university experience, has allowed me to develop advanced technical skills and a rigorous analytical approach. I have been actively involved in several R&D projects, which has allowed me to work closely with high level research teams. I have also had the privilege of teaching a university course in statistical programming for 3 years, as well as being the coordinator responsible for several university level courses. This experience has not only deepened my knowledge, but has also honed my ability to communicate complex ideas clearly and effectively.
 </div>
