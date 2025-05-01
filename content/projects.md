@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: R&D Projects
-      text: I am currently involved in several research projects dealing with the management of large datasets, in line with the Open Science movement and the FAIR principles. 
+      text: I have been engaged in a number of research projects concerning the management of large datasets, in accordance with the Open Science movement and the FAIR principles 
       filters:
         folders:
           - project
