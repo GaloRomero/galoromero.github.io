@@ -18,6 +18,7 @@ sections:
       button:
         text: Download CV
         url: uploads/cvGALOeng.pdf
+        css_style: "padding: 0.75rem 1.5rem;"  # ← Añadido para mejorar el padding del botón
     design:
       css_class: dark
       background:
