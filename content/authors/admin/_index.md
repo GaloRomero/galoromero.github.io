@@ -63,18 +63,18 @@ work:
     company_url: 'https://www.ciencia.gob.es/'
     company_logo: ''
     date_start: 2021-12-01
-    date_end: '2025-03-01'
+    date_end: '2025-04-01'
     summary: |2-
       Responsibilities include:
       - PostgreSQL relational database development
-      - Creation and implementation of web mapping applications with Leaflet
+      - Creation and implementation of web mapping applications with [Leaflet] (https://leafletjs.com/)
       - RDF and INSPIRE metadata generation and management
       - Design and maintenance of online databases using Bootstrap Table, HTML5 and CSS3
       - Perform statistical and spatial analysis using the R programming language
-      - Data management and analysis with Pandas in Python
+      - Data management and analysis with Pandas and Numpy in Python
       - Spatial data management with GeoPandas in Python
-      - Data visualisation with Matplotlib in Python
-      - Teaching Computer Applications and Statistics for the Bachelor of Archaeology at the [Universidad de Sevilla](https://www.us.es/)
+      - Data visualisation with Matplotlib and Seaborn in Python
+      - Teaching Computer Applications and Statistics at the [Universidad de Sevilla](https://www.us.es/)
   - position: R&D Technician
     company_name: European Commission
     company_url: 'https://commission.europa.eu/index_en'
