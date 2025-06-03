@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Geographer | Data Scientist
+role: Geographer | Data Scientist | GIS
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -189,6 +189,7 @@ awards:
 ## About Me
 
 <div style="text-align: justify;">
-My academic background, combined with five years of university experience, has allowed me to develop advanced technical skills and a rigorous analytical approach. I have been actively involved in several R&D projects, which has allowed me to work closely with high level research teams. I have also had the privilege of teaching a university course in statistical programming for 3 years, as well as being the coordinator responsible for several university level courses. This experience has not only deepened my knowledge, but has also honed my ability to communicate complex ideas clearly and effectively.
+
+My academic and professional training has enabled me to develop advanced technical skills and a rigorous analytical approach, which has been invaluable in my professional life. I have actively participated in various R&D projects, collaborating closely with high-level research teams. I have also had the privilege of teaching a university course in statistical programming for three years and serving as coordinator for several other university-level subjects. These experiences have deepened my knowledge and honed my ability to communicate complex ideas clearly and effectively.
  
 </div>
