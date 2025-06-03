@@ -67,7 +67,7 @@ work:
     summary: |2-
       Responsibilities include:
       - PostgreSQL relational database development
-      - Creation and implementation of web mapping applications with [Leaflet] (https://leafletjs.com/)
+      - Creation and implementation of web mapping applications with [Leaflet](https://leafletjs.com/)
       - RDF and INSPIRE metadata generation and management
       - Design and maintenance of online databases using Bootstrap Table, HTML5 and CSS3
       - Perform statistical and spatial analysis using the R programming language
