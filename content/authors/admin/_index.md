@@ -90,7 +90,7 @@ work:
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
     company_logo: ''
-    date_start: 2020-02-15
+    date_start: 2020-01-15
     date_end: 2020-06-15
     summary: |
       Participation in the [CONSOLE](https://cordis.europa.eu/project/id/817949/es) project<br>
@@ -105,7 +105,7 @@ work:
     company_name: Ministerio de Educación y Formación Profesional
     company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
     company_logo: ''
-    date_start: 2019-10-15
+    date_start: 2019-09-15
     date_end: 2020-06-15
     summary: |
       Responsibilities include:
@@ -114,8 +114,8 @@ work:
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
     company_logo: ''
-    date_start: 2019-04-15
-    date_end: 2019-06-15
+    date_start: 2019-03-15
+    date_end: 2019-07-15
     summary: |
       Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project<br>
       
