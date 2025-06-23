@@ -1,0 +1,9 @@
+{{ $projects := where .Site.RegularPages "Section" "project" | first 6 }} 
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+  {{ range $projects }}
+  <div style="flex: 1 0 30%; border: 1px solid #ccc; padding: 1rem;">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Summary }}</p>
+  </div>
+  {{ end }}
+</div>
