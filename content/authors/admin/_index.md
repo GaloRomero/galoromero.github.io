@@ -79,7 +79,7 @@ work:
     company_name: European Commission
     company_url: 'https://commission.europa.eu/index_en'
     company_logo: ''
-    date_start: 2020-11-15
+    date_start: 2020-10-15
     date_end: 2021-11-30
     summary: |
       Responsibilities include:
