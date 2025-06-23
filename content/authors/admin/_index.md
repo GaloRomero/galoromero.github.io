@@ -121,7 +121,7 @@ work:
       
       Responsibilities include:
       - Editing, correcting and updating files in various formats using GIS software
-      - Spatial database management and analysis using SQL for geospatial data extraction and processing.
+      - Spatial database management and analysis using SQL for geospatial data extraction and processing. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
