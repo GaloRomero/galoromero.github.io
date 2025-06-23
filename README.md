@@ -16,4 +16,5 @@ The icons used in the project section are from [Flaticon](https://www.flaticon.c
 - [Gem icons created by Kason Koo](https://www.flaticon.com/free-icons/gem)
 - [Database icons created by Eucalyp](https://www.flaticon.com/free-icons/database)
 - [Data collection icons created by Nuricon](https://www.flaticon.com/free-icons/data-collection)
+- [Olive tree icons created by gravisio](https://www.flaticon.com/free-icons/olive-tree)
 ---
