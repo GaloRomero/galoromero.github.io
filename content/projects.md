@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: project-grid
+      view: article-grid
       fill_image: false
       columns: 3
 ---
