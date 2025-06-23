@@ -1,7 +1,20 @@
-{{ $projects := where .Site.RegularPages "Section" "project" | first 6 }} 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+{{ $projects := where .Site.RegularPages "Section" "project" | first 6 }}
+
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.project-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+</style>
+
+<div class="project-grid">
   {{ range $projects }}
-  <div style="flex: 1 0 30%; border: 1px solid #ccc; padding: 1rem;">
+  <div class="project-item">
     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     <p>{{ .Summary }}</p>
   </div>
