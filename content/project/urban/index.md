@@ -5,5 +5,4 @@ external_link: https://ec.europa.eu/regional_policy/policy/themes/urban-developm
 ---
 
 Improved the quality of data to support the implementation of performance indicators in European cities.
-
 <!--more-->
