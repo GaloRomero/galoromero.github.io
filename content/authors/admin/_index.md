@@ -109,7 +109,7 @@ work:
     date_end: 2020-06-15
     summary: |
       Responsibilities include:
-      - Digitisation of protected natural areas in Andalusia (Spain) using GIS software
+      - Digitising protected natural areas in Andalusia (Spain) using GIS software.
   - position: Geographical Information Systems Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
@@ -120,7 +120,7 @@ work:
       Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project<br>
       
       Responsibilities include:
-      - Edited, corrected, and updated files in various formats using GIS software
+      - Editing, correcting and updating files in various formats using GIS software
       - Spatial database management and analysis using SQL for geospatial data extraction and processing.
 
 # Skills
