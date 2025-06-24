@@ -12,7 +12,7 @@ You can view my website by clicking the link below:
 
 ### Attributions
 
-The icons used in the project section are from [Flaticon](https://www.flaticon.com/). Specific icons include the following:
+The icons used in the project section are from [Flaticon](https://www.flaticon.com/):
 - [Gem icons created by Kason Koo](https://www.flaticon.com/free-icon/amber_8810488?term=amber&page=1&position=5&origin=search&related_id=8810488)
 - [Database icons created by Eucalyp](https://www.flaticon.com/free-icon/relational_2758751?term=relational+database&page=1&position=1&origin=search&related_id=2758751)
 - [Data collection icons created by Nuricon](https://www.flaticon.com/free-icon/data-collection_18115563?term=data+collection&page=4&position=75&origin=search&related_id=18115563)
