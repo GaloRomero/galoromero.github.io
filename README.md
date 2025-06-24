@@ -2,7 +2,7 @@
 
 Welcome to my **professional website**! My name is **Galo Romero García**, and this website serves as a portfolio showcasing my skills, projects, and background. 
 
-Feel free to explore my projects, resume, and get in touch with me through the contact section. I hope you enjoy the experience!
+My projects and CV are available for you to look through. Don't hesitate to contact me. I hope you enjoy the experience!
 
 ## Visit My Website
 
