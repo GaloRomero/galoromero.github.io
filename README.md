@@ -18,5 +18,4 @@ The icons used in the project section are from [Flaticon](https://www.flaticon.c
 - [Data collection icons created by Nuricon](https://www.flaticon.com/free-icon/data-collection_18115563?term=data+collection&page=4&position=75&origin=search&related_id=18115563)
 - [Olive tree icons created by gravisio](https://www.flaticon.com/free-icon/olive-tree_18242083?term=olive&page=6&position=56&origin=search&related_id=18242083)
 - [Technology icons created by Freepik](https://www.flaticon.com/free-icon/technology_4234261?related_id=4234255&origin=search)
-
 ---
