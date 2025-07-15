@@ -74,6 +74,8 @@ work:
       - Data management and analysis with Pandas and Numpy in Python
       - Spatial data management with GeoPandas in Python
       - Data visualisation with Matplotlib and Seaborn in Python
+      - Implemented data processing in [Snowflake](https://www.snowflake.com/es/) using advanced SQL, with a focus on cleaning, transforming, and
+        efficiently modeling large-scale datasets
       - Teaching Computer Applications and Statistics at the [Universidad de Sevilla](https://www.us.es/)
   - position: R&D Technician
     company_name: European Commission
