@@ -85,9 +85,26 @@ work:
     date_end: 2021-11-30
     summary: |
       Responsibilities include:
-      - Data collection
-      - PostgreSQL relational database development
-      - Database modelling
+      Systematisation of the data collected in the project HAR2017-83474-P (Networks and Rare Rocks in the Iberian
+      Peninsula and the Mediterranean (VI-II millennium BC)) and their integration with those already obtained in
+      HAR2012-34620 (New Technologies Applied to the Study of Mobility and Exchange: Green Beads and Ceramics
+      Decorated with White Fillings from VI to II Millennium BC in the Iberian Peninsula from a Multidisciplinary Perspective)
+      into a Spatial Data Infrastructure (SDI) and Geoportal according to the INSPIRE guidelines of the European Union.
+      The aim of the project is to transform the spatial data of the Iberian Peninsula (from a multidisciplinary perspective)
+      into a Spatial Data Infrastructure (SDI) and a Geoportal according to the European Union's INSPIRE interoperability
+      guidelines, which unify the criteria for the processing, storage and open distribution of spatial information.
+
+      The development of the SDI includes the following activities:
+
+      -Design of the geoportal according to the established architecture design.
+      -Database processing and modelling (data cleansing and organisation).
+      -Design and integration of the database model. Once the data have been processed and standardised, the data model that will support and feed the geoportal will be developed.
+      -Design and implementation of a relational database model to allow us to consume complex and massive data.
+      -Integration of alphanumeric and geographic data in PostgreSQL / PostGIS databases and processing of spatial information using Geographic Information Systems.
+      -Design and development of the geoportal and the various internal tools that will allow the data to be consumed and visualised.
+      -Testing, real test of the overall functioning.
+      -Data organisation, analysis, processing and normalisation tasks.
+      -Implementation of routines and automation of network analysis using the SoNIA library of the free software R and Shinny applications for network analysis development and processing.
   - position: Geographical Information Systems Technician
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
