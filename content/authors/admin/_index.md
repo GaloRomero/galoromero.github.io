@@ -209,6 +209,6 @@ awards:
 
 <div style="text-align: justify;">
 
-My academic and professional training has enabled me to develop advanced technical skills and a rigorous analytical approach, which has been invaluable in my professional life. I have actively participated in various R&D projects, collaborating closely with high-level research teams. I have also had the privilege of teaching a university course in statistical programming for three years and serving as coordinator for several other university-level subjects. These experiences have deepened my knowledge and honed my ability to communicate complex ideas clearly and effectively.
+My academic and professional training has enabled me to develop advanced technical skills and a rigorous analytical approach, which has been invaluable in my professional life. I have actively participated in various R&D projects, collaborating closely with high-level research teams. I have also had the privilege of teaching a university course in statistical programming for three years and serving as coordinator for several other university-level subjects. These experiences have deepened my knowledge and honed my ability to communicate complex ideas clearly and effectively. 
  
 </div>
