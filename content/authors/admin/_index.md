@@ -94,7 +94,7 @@ work:
       into a Spatial Data Infrastructure (SDI) and a Geoportal according to the European Union's INSPIRE interoperability
       guidelines, which unify the criteria for the processing, storage and open distribution of spatial information.
 
-      The development of the SDI includes the following activities:
+      The development of the SDI includes the following activities: 
 
       -Design of the geoportal according to the established architecture design.
       -Database processing and modelling (data cleansing and organisation).
