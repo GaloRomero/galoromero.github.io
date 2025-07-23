@@ -122,7 +122,7 @@ work:
     company_url: 'https://geographica.carto.com/maps'
     company_logo: '' 
     date_start: 2019-03-15
-    date_end: 2019-07-15
+    date_end: 2019-07-30
     summary: |
       Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project<br>
       
