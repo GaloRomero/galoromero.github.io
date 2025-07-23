@@ -120,7 +120,7 @@ work:
   - position: Geographical Information Systems Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
-    company_logo: ''
+    company_logo: '' 
     date_start: 2019-03-15
     date_end: 2019-07-15
     summary: |
