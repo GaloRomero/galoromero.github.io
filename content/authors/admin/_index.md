@@ -43,7 +43,7 @@ profiles:
 
 interests:
   - Data Curation
-  - Relational Databases
+  - Database Management
   - Geographic Information Technology
 
 education:
@@ -66,17 +66,16 @@ work:
     date_end: '2025-04-01'
     summary: |2-
       Responsibilities include:
-      - PostgreSQL relational database development
+      - Development of relational databases using PostgreSQL
       - Creation and implementation of web mapping applications with [Leaflet](https://leafletjs.com/)
-      - RDF and INSPIRE metadata generation and management
-      - Design and maintenance of online databases using Bootstrap Table, HTML5 and CSS3
-      - Perform statistical and spatial analysis using the R programming language
-      - Data management and analysis with Pandas and Numpy in Python
-      - Spatial data management with GeoPandas in Python
-      - Data visualisation with Matplotlib and Seaborn in Python
-      - Implemented data processing in [Snowflake](https://www.snowflake.com/es/) using advanced SQL, with a focus on cleaning, transforming, and
-        efficiently modeling large-scale datasets
-      - Teaching Computer Applications and Statistics at the [Universidad de Sevilla](https://www.us.es/)
+      - Generation and management of RDF and INSPIRE-compliant metadata
+      - Design and maintenance of online databases using Bootstrap Table, HTML5, and CSS3
+      - Statistical and spatial analysis using the R programming language
+      - Data management and analysis with Pandas and NumPy in Python
+      - Spatial data processing with GeoPandas in Python
+      - Data visualisation using Matplotlib and Seaborn in Python
+      - Large-scale data processing in [Snowflake](https://www.snowflake.com/es/) using advanced SQL, with a focus on cleaning, transforming, and efficiently modelling datasets
+      - University teaching experience in Computer Applications and Statistics
   - position: R&D Technician
     company_name: European Commission
     company_url: 'https://commission.europa.eu/index_en'
@@ -85,15 +84,15 @@ work:
     date_end: 2021-11-30
     summary: |
       Responsibilities include:
-      - Design of a Spatial Data Infrastructure.
-      - Database processing and modelling (data cleansing and organisation).
-      - Design and integration of the database model. Once the data have been processed and standardised, the data model that will support and feed the geoportal will be developed.
-      - Design and implementation of a relational database model to allow us to consume complex and massive data.
-      - Integration of alphanumeric and geographic data in PostgreSQL / PostGIS databases and processing of spatial information using Geographic Information Systems.
-      - Design and development of the geoportal and the various internal tools that will allow the data to be consumed and visualised.
-      - Testing, real test of the overall functioning.
-      - Data organisation, analysis, processing and normalisation tasks.
-      - Implementation of routines and automation of network analysis using the SoNIA library of the free software R and Shinny applications for network analysis development and processing.
+      - Design of a Spatial Data Infrastructure (SDI)
+      - Database processing and modelling, including data cleansing and organisation
+      - Design and integration of the database model: After processing and standardising the data, developed the data model that supports and feeds the geoportal
+      - Design and implementation of a relational database model to handle complex and large-scale datasets
+      - Integration of alphanumeric and geographic data in PostgreSQL/PostGIS databases, and processing of spatial information using Geographic Information Systems (GIS)
+      - Design and development of the geoportal and various internal tools for data consumption and visualisation
+      - Testing and validation of the overall system functionality
+      - Data organisation, analysis, processing, and normalisation
+      - Implementation of routines and automation of network analysis using the SoNIA library in R, and the development of [Shiny](https://shiny.posit.co/) applications for network analysis, geovisualisation tools (geo-viewers), and database interaction
   - position: Geographical Information Systems Technician
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
@@ -104,11 +103,11 @@ work:
       Participation in the [CONSOLE](https://cordis.europa.eu/project/id/817949/es) project<br>
  
       Responsibilities include:
-      - Performed statistical analysis using SPSS and R 
-      - Preparation and writing of scientific and technical reports 
-      - Spatial analysis and mapping using ArcGIS and QGIS
-      - Database management and maintenance, ensuring data accuracy and accessibility
-      - Support project development by researching and analysing bibliographic references
+      - Performed statistical analyses using SPSS and R 
+      - Prepared and wrote scientific and technical reports 
+      - Conducted spatial analysis and mapping using ArcGIS and QGIS
+      - Managed and maintained databases, ensuring data accuracy and accessibility
+      - Supported project development through the research and analysis of bibliographic references
   - position: Geographical Information Systems Technician
     company_name: Ministerio de Educación y Formación Profesional
     company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
@@ -117,7 +116,7 @@ work:
     date_end: 2020-06-15
     summary: |
       Responsibilities include:
-      - Digitising protected natural areas in Andalusia (Spain) using GIS software.
+      - Digitised and mapped protected natural areas in Andalusia (Spain) using GIS platforms such as QGIS and ArcGIS
   - position: Geographical Information Systems Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
@@ -128,8 +127,8 @@ work:
       Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project<br>
       
       Responsibilities include:
-      - Editing, correcting and updating files in various formats using GIS software
-      - Spatial database management and analysis using SQL for geospatial data extraction and processing. 
+      - Edited, corrected, and updated spatial data files in various formats using GIS software
+      - Managed and analysed spatial databases using SQL for geospatial data extraction and processing 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
