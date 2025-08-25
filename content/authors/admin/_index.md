@@ -58,13 +58,25 @@ education:
     date_end: 2019-07-31
    
 work:
+  - position: GIS Data Analyst
+    company_name: IdenCity
+    company_url: https://www.idencityconsulting.com/en/
+    company_logo: ''
+    date_start: 2025-08-25
+    date_end: ''
+    summary: |2- 
+      Responsibilities include:
+      - Build and validate geospatial datasets across different spatial scales
+      - Develop accessibility isochrones for urban facilities using population-based criteria
+      - Deliver reproducible workflows in Python (GeoPandas/ORS) with documented code
+      - Provide high-quality geodata outputs to support spatial planning and decision-making
   - position: Data Scientist
     company_name: Ministerio de Ciencia, Innovación y Universidades
     company_url: 'https://www.ciencia.gob.es/'
     company_logo: ''
     date_start: 2021-12-01
-    date_end: '2025-04-01'
-    summary: |2-
+    date_end: 2025-04-01
+    summary: |
       Responsibilities include:
       - Development of relational databases using PostgreSQL
       - Creation and implementation of web mapping applications with [Leaflet](https://leafletjs.com/)
