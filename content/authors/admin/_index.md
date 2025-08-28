@@ -70,7 +70,7 @@ work:
       - Develop accessibility isochrones for urban facilities using population-based criteria
       - Deliver reproducible workflows in Python (GeoPandas/ORS) with documented code
       - Provide high-quality geodata outputs to support spatial planning and decision-making
-  - position: Data Scientist
+  - position: Geospatial Data Scientist
     company_name: Ministerio de Ciencia, Innovación y Universidades
     company_url: 'https://www.ciencia.gob.es/'
     company_logo: ''
@@ -88,7 +88,7 @@ work:
       - Data visualisation using Matplotlib and Seaborn in Python
       - Large-scale data processing in [Snowflake](https://www.snowflake.com/es/) using advanced SQL, with a focus on cleaning, transforming, and efficiently modelling datasets
       - University teaching experience in Computer Applications and Statistics
-  - position: R&D Technician
+  - position: Geospatial Data Engineer
     company_name: European Commission
     company_url: 'https://commission.europa.eu/index_en'
     company_logo: ''
@@ -105,7 +105,7 @@ work:
       - Testing and validation of the overall system functionality
       - Data organisation, analysis, processing, and normalisation
       - Implementation of routines and automation of network analysis using the SoNIA library in R, and the development of [Shiny](https://shiny.posit.co/) applications for network analysis, geovisualisation tools (geo-viewers), and database interaction
-  - position: Geographical Information Systems Technician
+  - position: GIS Technician
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
     company_logo: ''
@@ -120,7 +120,7 @@ work:
       - Conducted spatial analysis and mapping using ArcGIS and QGIS
       - Managed and maintained databases, ensuring data accuracy and accessibility
       - Supported project development through the research and analysis of bibliographic references
-  - position: Geographical Information Systems Technician
+  - position: GIS Technician
     company_name: Ministerio de Educación y Formación Profesional
     company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
     company_logo: ''
@@ -129,7 +129,7 @@ work:
     summary: |
       Responsibilities include:
       - Digitised and mapped protected natural areas in Andalusia (Spain) using GIS platforms such as QGIS and ArcGIS
-  - position: Geographical Information Systems Technician
+  - position: GIS Technician
     company_name: Geographica
     company_url: 'https://geographica.carto.com/maps'
     company_logo: '' 
@@ -209,6 +209,6 @@ awards:
 
 <div style="text-align: justify;">
 
-My academic and professional training has enabled me to develop advanced technical skills and a rigorous analytical approach, which has been invaluable in my professional life. I have actively participated in various R&D projects, collaborating closely with high-level research teams. I have also had the privilege of teaching a university course in statistical programming for three years and serving as coordinator for several other university-level subjects. These experiences have deepened my knowledge and honed my ability to communicate complex ideas clearly and effectively. 
+My academic and professional background has provided me with strong technical expertise and a rigorous analytical mindset. I have contributed to several R&D projects alongside leading research teams, taught statistical programming and data analysis at university level for three years, and coordinated multiple courses. I have a solid technical profile, focused on the analysis, management and development of geospatial data solutions.
  
 </div> 
