@@ -210,6 +210,6 @@ awards:
 
 <div style="text-align: justify;">
 
-GIS Data Engineer driving geospatial data solutions through spatial databases, Python & SQL ETL pipelines, and GIS applications. Experienced in R&D projects and data analysis, transforming complex geospatial data into actionable insights for decision-making.
+GIS Data Engineer leveraging spatial databases, Python & SQL ETL pipelines, and GIS applications to deliver actionable geospatial insights. Proven experience in R&D projects, driving data-driven decision-making by transforming complex geospatial datasets into high-impact solutions.
  
 </div> 
