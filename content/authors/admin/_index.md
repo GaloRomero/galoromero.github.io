@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Geographer | Data Scientist | GIS Specialist
+role: Geographer | GIS Specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,7 +42,7 @@ profiles:
     url: https://www.scopus.com/authid/detail.uri?authorId=58860498600
 
 interests:
-  - Data Curation
+  - Data Science
   - Database Management
   - Geographic Information Technology
 
@@ -58,7 +58,7 @@ education:
     date_end: 2019-07-31
    
 work:
-  - position: GIS Data Analyst
+  - position: GIS Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
     company_logo: ''
@@ -66,10 +66,11 @@ work:
     date_end: ''
     summary: |2- 
       Responsibilities include:
-      - Build and validate geospatial datasets across different spatial scales
+      - Build, process, and validate geospatial datasets across multiple spatial scales
+      - Design efficient and scalable ETL pipelines to transform and manage complex geospatial data
+      - Deliver reproducible Python workflows (GeoPandas, ORS) with fully documented code
       - Develop accessibility isochrones for urban facilities using population-based criteria
-      - Deliver reproducible workflows in Python (GeoPandas/ORS) with documented code
-      - Provide high-quality geodata outputs to support spatial planning and decision-making
+      - Produce high-quality geospatial outputs to support informed spatial planning and decision-making
   - position: Geospatial Data Scientist
     company_name: Ministerio de Ciencia, Innovación y Universidades
     company_url: 'https://www.ciencia.gob.es/'
@@ -209,6 +210,6 @@ awards:
 
 <div style="text-align: justify;">
 
-My academic and professional background has provided me with strong technical expertise and a rigorous analytical mindset. I have contributed to several R&D projects alongside leading research teams, taught statistical programming and data analysis at university level for three years, and coordinated multiple courses. I have a solid technical profile, focused on the analysis, management and development of geospatial data solutions.
+GIS Data Engineer driving geospatial data solutions through spatial databases, Python & SQL ETL pipelines, and GIS applications. Experienced in R&D projects and data analysis, transforming complex geospatial data into actionable insights for decision-making.
  
 </div> 
