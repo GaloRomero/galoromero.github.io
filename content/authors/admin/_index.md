@@ -58,7 +58,7 @@ education:
     date_end: 2019-07-31
    
 work:
-  - position: GIS Data Engineer
+  - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
     company_logo: ''
@@ -210,6 +210,6 @@ awards:
 
 <div style="text-align: justify;">
 
-GIS Data Engineer leveraging spatial databases, Python & SQL ETL pipelines, and GIS applications to deliver actionable geospatial insights. Proven experience in R&D projects, driving data-driven decision-making by transforming complex geospatial datasets into high-impact solutions.
+Geospatial Data Engineer leveraging spatial databases, Python & SQL ETL pipelines, and GIS applications to deliver actionable geospatial insights. Proven experience in R&D projects, driving data-driven decision-making by transforming complex geospatial datasets into high-impact solutions.
  
 </div> 
