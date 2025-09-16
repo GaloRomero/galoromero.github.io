@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Geographer | GIS Specialist
+role: Software Engineer | Geospatial Data Specialist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,17 +34,13 @@ profiles:
     url: https://github.com/GaloRomero
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/galoromerogarcia/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.es/citations?user=3bs9N7IAAAAJ&hl=es
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1533-5781
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=58860498600
 
 interests:
-  - Data Science
+  - Data Engineering
   - Database Management
-  - Geographic Information Technology
+  - Geospatial Technology
 
 education:
   - area: M.Sc in Geography
@@ -58,13 +54,22 @@ education:
     date_end: 2019-07-31
    
 work:
+  - position: Software Engineer
+    company_name: Nter Tech Services
+    company_url: https://nter.es/
+    company_logo: ''
+    date_start: 2025-09-15
+    date_end: ''
+    summary: |2- 
+      Responsibilities include:
+      - Ensuring database integrity and performance through effective management and data modeling practices
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
     company_logo: ''
     date_start: 2025-08-25
     date_end: ''
-    summary: |2- 
+    summary: | 
       Responsibilities include:
       - Build, process, and validate geospatial datasets across multiple spatial scales
       - Design efficient and scalable ETL pipelines to transform and manage complex geospatial data
@@ -152,7 +157,7 @@ skills:
         description: ''
         percent: 90
         icon: circle-stack
-      - name: Data Science
+      - name: Data Management
         description: ''
         percent: 100
         icon: chart-bar
@@ -194,7 +199,7 @@ awards:
     awarder: Ministerio de Ciencia, Innovación y Universidades
     summary: |
     
-      Awarded a Lectureship at the University of Seville by Spain's *Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i*, on the basis of academic excellence and proven expertise in Geographic Information Technologies. This recognition underlines an outstanding research and teaching career in this field.
+      Awarded a lectureship by Spain's *Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i*, on the basis of academic excellence and proven expertise in Geographic Information Systems. This recognition underlines an outstanding research and teaching career in this field.
 
   - title: Extraordinary master's degree award 🏆
     url: https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios
@@ -210,6 +215,6 @@ awards:
 
 <div style="text-align: justify;">
 
-Geospatial Data Engineer leveraging spatial databases, Python & SQL ETL pipelines, and GIS applications to deliver actionable geospatial insights. Proven experience in R&D projects, driving data-driven decision-making by transforming complex geospatial datasets into high-impact solutions.
+Software Engineer and Geospatial Data Specialist, transforming complex geospatial datasets into scalable, actionable solutions that drive impact.
  
 </div> 
