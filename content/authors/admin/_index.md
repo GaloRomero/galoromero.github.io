@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer | Geospatial Data Specialist
+role: Geospatial Data Specialist | Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -215,6 +215,6 @@ awards:
 
 <div style="text-align: justify;">
 
-Software Engineer and Geospatial Data Specialist, transforming complex geospatial datasets into scalable, actionable solutions that drive impact.
+Geospatial Data Specialist and Software Engineer, passionate about data management and analysis, with a strong focus on transforming complex geospatial datasets into scalable, actionable solutions that drive meaningful impact.
  
 </div> 
