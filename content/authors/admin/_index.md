@@ -130,7 +130,7 @@ work:
     company_name: Ministerio de Educación y Formación Profesional
     company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
     company_logo: ''
-    date_start: 2019-09-15
+    date_start: 2019-09-15 
     date_end: 2020-06-30
     summary: |
       Responsibilities include:
