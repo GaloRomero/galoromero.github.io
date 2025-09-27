@@ -131,7 +131,7 @@ work:
     company_url: 'https://www.educacionfpydeportes.gob.es/portada.html'
     company_logo: ''
     date_start: 2019-09-15 
-    date_end: 2020-06-30
+    date_end: 2020-06-30 
     summary: |
       Responsibilities include:
       - Digitised and mapped protected natural areas in Andalusia (Spain) using GIS platforms such as QGIS and ArcGIS
