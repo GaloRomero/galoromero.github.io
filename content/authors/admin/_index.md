@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Geospatial Data Specialist | Software Engineer
+role: Software Engineer at NTER Solutions and Technologies
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -62,7 +62,7 @@ work:
     date_end: ''
     summary: |2- 
       Responsibilities include:
-      - Ensuring database integrity and performance through effective management and data modeling practices
+      - Ensuring data quality and system performance by implementing Python-based validation rules within a scalable ETL framework, processing large and varied datasets through robust data modelling practices.
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
@@ -215,6 +215,6 @@ awards:
 
 <div style="text-align: justify;">
 
-Geospatial Data Specialist and Software Engineer, passionate about data management and analysis, with a strong focus on transforming complex geospatial datasets into scalable, actionable solutions that drive meaningful impact.
+Software Engineer and Geospatial Data Specialist with expertise in ETL workflows, SQL, Python, and database modelling. I have experience developing scalable data architectures and transforming complex datasets into actionable insights. Skilled in building robust, efficient solutions, I focus on enabling data-driven decision-making and delivering measurable results.
  
 </div> 
