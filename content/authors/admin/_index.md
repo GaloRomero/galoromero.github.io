@@ -76,7 +76,7 @@ work:
       - Deliver reproducible Python workflows (GeoPandas, ORS) with fully documented code
       - Develop accessibility isochrones for urban facilities using population-based criteria
       - Produce high-quality geospatial outputs to support informed spatial planning and decision-making
-  - position: Geospatial Data Scientist
+  - position: Geospatial Data Engineer
     company_name: Ministerio de Ciencia, Innovación y Universidades
     company_url: 'https://www.ciencia.gob.es/'
     company_logo: ''
