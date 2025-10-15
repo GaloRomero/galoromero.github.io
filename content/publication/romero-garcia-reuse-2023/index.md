@@ -1,8 +1,7 @@
 ---
 title: 'Reuse or Nothing! the Materialisation of R Principle Through the Implementation
   of a Spatial Data Infrastructure: PEPAdb'
-authors:
-- Galo Romero-García
+
 date: '2023-01-01'
 publishDate: '2025-01-25T18:09:28.882411Z'
 publication_types:

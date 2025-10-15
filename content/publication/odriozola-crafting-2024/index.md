@@ -1,18 +1,7 @@
 ---
 title: 'Crafting illusions: Human-made composite coating used to simulate amber beads
   in prehistoric Iberia'
-authors:
-- Carlos P. Odriozola
-- José Ángel Garrido-Cordero
-- Ana C. Sousa
-- José María Martínez-Blanes
-- Galo Romero-García
-- Daniel Sánchez-Gómez
-- Manel Edo I Benaigues
-- Diego Romero-Vera
-- María Dolores Simón-Vallejo
-- María Dolores Zambrana-Vega
-- José Luis Molina-González
+
 date: '2024-08-01'
 publishDate: '2025-01-25T18:09:28.854112Z'
 publication_types:

@@ -1,15 +1,6 @@
 ---
 title: A supervised multiclass framework for mineral classification of Iberian beads
-authors:
-- Daniel Sanchez-Gomez
-- Carlos P. Odriozola
-- Ana C. Sousa
-- José Ángel Garrido-Cordero
-- Galo Romero-García
-- José María Martínez-Blanes
-- Manel Edo I. Benaiges
-- Rodrigo Villalobos-García
-- Victor S. Gonçalves
+
 date: '2024-07-01'
 publishDate: '2025-01-25T18:09:28.861580Z'
 publication_types:

@@ -1,16 +1,7 @@
 ---
 title: 'Amber provenance as a Chrono-Cultural Proxy: Insights from FTIR analysis in
   the Iberian Peninsula'
-authors:
-- José Ángel Garrido-Cordero
-- Carlos P. Odriozola
-- Ana C. Sousa
-- Galo Romero-García
-- Daniel Sánchez-Gómez
-- José María Martínez-Blanes
-- M. Lázarich
-- María Dolores Zambrana-Vega
-- J. Gonçalves
+
 date: '2024-09-01'
 publishDate: '2025-01-25T18:09:28.846412Z'
 publication_types:

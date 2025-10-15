@@ -1,13 +1,7 @@
 ---
 title: Unlocking archaeological data online via the PEPAdb (Prehistoric Europe's Personal
   Adornment Database) initiative for Open Science
-authors:
-- Galo Romero-García
-- Daniel Sánchez-Gómez
-- José Ángel Garrido-Cordero
-- José María Martínez-Blanes
-- Ana C. Sousa
-- Carlos P. Odriozola
+
 date: '2024-04-01'
 publishDate: '2025-01-25T18:09:28.836055Z'
 publication_types:

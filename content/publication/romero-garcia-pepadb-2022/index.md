@@ -1,7 +1,6 @@
 ---
 title: 'PEPAdb: Putting the FAIR Principles into Practice'
-authors:
-- Galo Romero-García
+
 date: '2022-01-01'
 publishDate: '2025-01-25T18:09:28.869929Z'
 publication_types:
