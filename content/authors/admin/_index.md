@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer at NTER Solutions and Technologies
+role: Software Engineer at Nter Tech Services
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
