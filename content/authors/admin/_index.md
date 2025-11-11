@@ -162,7 +162,7 @@ skills:
         percent: 100
         icon: chart-bar
       - name: Python
-        description: '' 
+        description: ''
         percent: 70
         icon: code-bracket
   - name: Hobbies
