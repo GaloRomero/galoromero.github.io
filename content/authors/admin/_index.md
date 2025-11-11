@@ -164,7 +164,7 @@ skills:
       - name: Python
         description: ''
         percent: 70
-        icon: code-bracket
+        icon: code-bracket    
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
