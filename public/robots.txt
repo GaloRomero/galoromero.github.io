@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://galoromero.github.io/sitemap.xml
