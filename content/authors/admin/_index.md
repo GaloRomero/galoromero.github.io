@@ -67,7 +67,7 @@ work:
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
     company_logo: ''
-    date_start: 2025-08-25
+    date_start: 2025-07-25
     date_end: 2025-10-15 
     summary: | 
       Responsibilities include:
