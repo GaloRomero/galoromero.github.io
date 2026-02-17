@@ -62,7 +62,7 @@ work:
     date_end: ''
     summary: |2- 
       Responsibilities include:
-      - Ensuring data quality and system performance by implementing Python-based validation rules within a scalable ETL framework, processing large and varied datasets through robust data modelling practices.
+      - Responsibilities include developing and maintaining database solutions, ensuring high data quality through structured validation processes within scalable workflows, and providing technical support to clients.
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
