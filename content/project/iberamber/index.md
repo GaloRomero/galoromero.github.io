@@ -1,5 +1,5 @@
 ---
-title: Local amber and amber networks in the Prehistory of Iberia
+title: Amber networks in the Prehistory
 date: 2023-03-01
 external_link: https://sciproj.ptcris.pt/175913PRJ
 ---

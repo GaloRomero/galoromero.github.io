@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: R&D Projects
-      text: I have been engaged in a number of research projects concerning the management of large datasets, in accordance with the Open Science movement and the FAIR principles 
+      title: Projects
+      text: I have been involved in several research projects focused on the governance, organisation, and stewardship of large-scale datasets through robust data management practices.
       filters:
         folders:
           - project
