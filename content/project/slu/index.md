@@ -4,6 +4,6 @@ date: 2025-09-15
 external_link: https://www.santalucia.es/
 ---
 
-Ensuring data quality through robust Python-based validation rules.
+Ensuring high data quality through robust Python-based validation rules within scalable workflows.
 
 <!--more-->
