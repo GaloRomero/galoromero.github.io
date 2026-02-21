@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2026 Galo Romero García.'
+    notice: '© 2026 Galo Romero García. Published with Hugo Blox Builder. License: [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)'
     license:
       enable: false
       allow_derivatives: false
