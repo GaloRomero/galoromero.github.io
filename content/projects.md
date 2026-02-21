@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: I have been involved in several research projects focused on the governance, organisation, and stewardship of large-scale datasets through robust data management practices.
+      text: Recent projects focus on governance, stewardship, and data management of large datasets.
       filters:
         folders:
           - project
