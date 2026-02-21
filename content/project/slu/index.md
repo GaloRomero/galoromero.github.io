@@ -6,7 +6,6 @@ categories:
   - project
   - insurance
 tags:
-  - python
   - data-quality
 ---
 

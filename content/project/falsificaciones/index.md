@@ -7,7 +7,7 @@ categories:
   - data
   - archaeology
 tags:
-  - database
+  - PostgreSQL database
   - forgery
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: Santander Consumer Bank
-date: 2026-01-15
+date: 2026-01-20
 external_link: https://www.santanderconsumer.es/
 categories:
   - project
   - finance
 tags:
-  - database
-  - consumer
+  - oracle database
 ---
 
 Developing and maintaining robust database solutions while providing reliable technical support to clients.

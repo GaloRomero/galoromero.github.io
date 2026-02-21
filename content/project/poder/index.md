@@ -6,8 +6,7 @@ categories:
   - project
   - technology
 tags:
-  - database
-  - power
+  - data curation
 ---
 
 Databases have been used to collect, organise, and systematise archaeological data, supporting research.
