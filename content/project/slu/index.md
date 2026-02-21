@@ -6,7 +6,7 @@ categories:
   - project
   - insurance
 tags:
-  - data-quality
+  - data quality
 ---
 
 Ensuring high data quality through robust Python-based validation rules within scalable workflows.
