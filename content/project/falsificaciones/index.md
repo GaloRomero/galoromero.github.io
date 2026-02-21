@@ -1,9 +1,9 @@
 ---
-title: Arqueología de las falsificaciones y la percepción
+title: Archaeology of forgery
 date: 2022-09-01
 external_link: https://prisma.us.es/financiacion/15849
 ---
 
-Relational databases offering robust functionality, scalability and reliability have been developed using PostgreSQL.
+Robust, scalable and reliable relational databases have been developed using an RDBMS.
 
 <!--more-->
