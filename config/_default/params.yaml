@@ -40,13 +40,15 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2026 Galo Romero García. Published with Hugo Blox Builder. License: [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)'
+    notice: '© 2026 Galo Romero García. Published with [Hugo Blox Builder](https://hugoblox.com/). License: [CC BY NC ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).'
     license:
       enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
-  
+  attribution:
+    enable: false
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
