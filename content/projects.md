@@ -22,6 +22,3 @@ sections:
       columns: 3
 ---
 
-
-
-
