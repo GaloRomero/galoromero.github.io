@@ -1,5 +1,5 @@
 ---
-title: Technologies for power discourse
+title: Technologies for power
 date: 2021-10-05
 external_link: https://prisma.us.es/financiacion/14775
 ---
