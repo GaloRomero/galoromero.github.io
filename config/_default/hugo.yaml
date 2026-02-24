@@ -45,7 +45,7 @@ timeout: 600000
 taxonomies:
   author: authors
   tag: tags
-  publication_type: publication_types
+  # publication_type eliminado porque ya no hay publicaciones
 markup:
   _merge: deep
   highlight:
