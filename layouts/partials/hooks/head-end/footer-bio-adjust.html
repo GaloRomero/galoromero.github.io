@@ -1,0 +1,26 @@
+<style>
+/* Scoped footer override for the bio section. Uses sibling selector when possible
+   and a body class fallback for wider compatibility. */
+#section-resume-biography-3 ~ .page-footer > footer,
+body.has-bio .page-footer > footer {
+  margin-top: 2rem !important;
+}
+@media (max-width: 640px) {
+  #section-resume-biography-3 ~ .page-footer > footer,
+  body.has-bio .page-footer > footer { margin-top: 1.25rem !important; }
+}
+</style>
+
+<script>
+// Add `has-bio` body class as fallback when the bio section is present.
+// Non-blocking, wrapped in try/catch for safety.
+document.addEventListener('DOMContentLoaded', function() {
+  try {
+    if (document.getElementById('section-resume-biography-3')) {
+      document.body.classList.add('has-bio');
+    }
+  } catch (e) {
+    /* noop */
+  }
+});
+</script>
