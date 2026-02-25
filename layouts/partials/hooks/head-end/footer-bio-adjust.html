@@ -13,6 +13,20 @@ body.has-bio .page-footer > footer {
   #section-collection ~ .page-footer > footer,
   body.has-bio .page-footer > footer { margin-top: 1.25rem !important; }
 }
+/* Apply equal vertical margins to footer paragraphs so text appears centered */
+#section-resume-biography-3 ~ .page-footer > footer p,
+#section-resume-experience ~ .page-footer > footer p,
+#section-collection ~ .page-footer > footer p,
+body.has-bio .page-footer > footer p {
+  margin-top: 0.75rem !important;
+  margin-bottom: 0.75rem !important;
+}
+@media (max-width: 640px) {
+  #section-resume-biography-3 ~ .page-footer > footer p,
+  #section-resume-experience ~ .page-footer > footer p,
+  #section-collection ~ .page-footer > footer p,
+  body.has-bio .page-footer > footer p { margin-top: 0.5rem !important; margin-bottom: 0.5rem !important; }
+}
 </style>
 
 <script>
