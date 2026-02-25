@@ -37,7 +37,7 @@ profiles:
   - icon: academicons/scopus
     url: https://www.scopus.com/authid/detail.uri?authorId=58860498600
 
-interests:
+interests: 
   - Data Management 
   - Database Administration
   - Geospatial Technology
