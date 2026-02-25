@@ -11,7 +11,7 @@ tags:
   - spatial-analysis
 ---
 
-Applies machine learning and spatial analysis techniques to investigate archaeological amber trade.
+ Machine learning and spatial analysis were employed to investigate archaeological amber trade patterns.
 
 <!--more-->
 
