@@ -38,8 +38,8 @@ profiles:
     url: https://www.scopus.com/authid/detail.uri?authorId=58860498600
 
 interests:
-  - Data Engineering
-  - Database Management
+  - Data Management
+  - Database Administration
   - Geospatial Technology
 
 education:
