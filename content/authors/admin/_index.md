@@ -199,7 +199,7 @@ awards:
     awarder: Ministerio de Ciencia, Innovación y Universidades
     summary: |
     
-      Awarded a lectureship by Spain's *Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i*, on the basis of academic excellence and proven expertise in Geographic Information Systems. This recognition underlines an outstanding research and teaching career in this field.
+      A lectureship was awarded by Spain's *Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i*, on the basis of academic excellence and proven expertise in database development and Geographic Information Systems. This accolade highlights an exceptional career in research and teaching in this field.
 
   - title: Extraordinary master's degree award 🏆
     url: https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios
@@ -207,7 +207,7 @@ awards:
     awarder: Universidad de Sevilla
     summary: |
     
-      I have been awarded the Extraordinary Master's Degree Award for my outstanding academic performance in Geography, specialising in Database Management and Geographic Information Systems (GIS). This award recognises my outstanding achievements in mastering the intricacies of spatial data management, analysis and the application of GIS tools to address geographical and environmental challenges.
+      Awarded the Extraordinary Master's Degree in recognition of a combination of rigorous coursework and practical advances in spatial data modelling and database design. The award recognises novel contributions to geospatial data processing, reproducible analytical workflows, and applied solutions that improve data quality and support evidence-based spatial decision-making.
 
 --- 
 
