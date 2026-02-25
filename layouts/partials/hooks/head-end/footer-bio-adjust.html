@@ -7,6 +7,17 @@
 body.has-bio .page-footer > footer {
   margin-top: 2rem !important;
 }
+/* Center footer content horizontally and vertically for the scoped pages */
+#section-resume-biography-3 ~ .page-footer > footer,
+#section-resume-experience ~ .page-footer > footer,
+#section-collection ~ .page-footer > footer,
+body.has-bio .page-footer > footer {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
 @media (max-width: 640px) {
   #section-resume-biography-3 ~ .page-footer > footer,
   #section-resume-experience ~ .page-footer > footer,
