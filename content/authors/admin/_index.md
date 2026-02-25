@@ -34,8 +34,6 @@ profiles:
     url: https://github.com/GaloRomero
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/galoromerogarcia/
-  - icon: academicons/scopus
-    url: https://www.scopus.com/authid/detail.uri?authorId=58860498600
 
 interests: 
   - Data Management 
