@@ -164,7 +164,7 @@ skills:
       - name: R for Data Analysis
         description: ''
         percent: 80
-        icon: chart-line
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
