@@ -157,11 +157,11 @@ skills:
         description: ''
         percent: 90
         icon: circle-stack
-      - name: Python for Data
+      - name: Python for Data Analysis
         description: ''
-        percent: 70
+        percent: 75
         icon: code-bracket
-      - name: R for Data Analysis
+      - name: R for Data Visualization
         description: ''
         percent: 80
         icon: chart-bar
