@@ -2,11 +2,15 @@
 /* Scoped footer override for the bio section. Uses sibling selector when possible
    and a body class fallback for wider compatibility. */
 #section-resume-biography-3 ~ .page-footer > footer,
+#section-resume-experience ~ .page-footer > footer,
+#section-collection ~ .page-footer > footer,
 body.has-bio .page-footer > footer {
   margin-top: 2rem !important;
 }
 @media (max-width: 640px) {
   #section-resume-biography-3 ~ .page-footer > footer,
+  #section-resume-experience ~ .page-footer > footer,
+  #section-collection ~ .page-footer > footer,
   body.has-bio .page-footer > footer { margin-top: 1.25rem !important; }
 }
 </style>
@@ -16,9 +20,29 @@ body.has-bio .page-footer > footer {
 // Non-blocking, wrapped in try/catch for safety.
 document.addEventListener('DOMContentLoaded', function() {
   try {
-    if (document.getElementById('section-resume-biography-3')) {
+    if (
+      document.getElementById('section-resume-biography-3') ||
+      document.getElementById('section-resume-experience') ||
+      document.getElementById('section-collection')
+    ) {
       document.body.classList.add('has-bio');
     }
+
+    // Fix potentially unquoted/malformed inline `style` attributes that set
+    // `background-image:url(...)` (some builds emit unquoted attribute values).
+    var elems = document.querySelectorAll('.home-section-bg.bg-image');
+    elems.forEach(function(el) {
+      try {
+        var raw = el.getAttribute('style') || '';
+        var m = raw.match(/background-image:\s*url\(([^)]+)\)/i);
+        if (m && m[1]) {
+          var url = m[1].trim().replace(/^['\"]|['\"]$/g, '');
+          el.style.backgroundImage = 'url("' + url + '")';
+        }
+      } catch (e) {
+        /* noop */
+      }
+    });
   } catch (e) {
     /* noop */
   }
