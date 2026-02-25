@@ -153,18 +153,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: SQL 
+      - name: SQL Optimization
         description: ''
         percent: 90
         icon: circle-stack
-      - name: Data Management
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Python
+      - name: Python for Data
         description: ''
         percent: 70
         icon: code-bracket
+      - name: R for Data Analysis
+        description: ''
+        percent: 80
+        icon: chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
