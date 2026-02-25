@@ -11,6 +11,6 @@ tags:
   - forgery
 ---
 
-Robust, scalable and reliable relational databases have been developed using an RDBMS.
+Relational database model with robust, scalable tables engineered for optimal performance.
 
 <!--more-->
