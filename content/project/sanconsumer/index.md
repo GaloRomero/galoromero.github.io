@@ -1,5 +1,5 @@
 ---
-title: Santander Consumer Bank
+title: Santander Consumer
 date: 2026-01-20
 external_link: https://www.santanderconsumer.es/
 categories:
