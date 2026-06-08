@@ -104,7 +104,7 @@ work:
       - Database processing and modelling, including data cleansing and organisation
       - Design and integration of the database model: After processing and standardising the data, developed the data model that supports and feeds the geoportal
       - Design and implementation of a relational database model to handle complex and large-scale datasets
-      - Integration of alphanumeric and geographic data in PostgreSQL/PostGIS databases, and processing of spatial information using Geographic Information Systems (GIS)
+      - Integration of alphanumeric and geographic data in PostgreSQL/PostGIS databases, and processing of spatial information using GIS
       - Design and development of the geoportal and various internal tools for data consumption and visualisation
       - Testing and validation of the overall system functionality
       - Data organisation, analysis, processing, and normalisation
@@ -213,6 +213,6 @@ awards:
 
 <div style="text-align: justify;">
 
-Software Engineer and Geospatial Data Specialist with expertise in ETL workflows, SQL, Python, and database modelling. I have experience developing scalable data architectures and transforming complex datasets into actionable insights. Skilled in building robust, efficient solutions, I focus on enabling data-driven decision-making and delivering measurable results.
- 
+I am a Software Engineer and Geospatial Data Specialist with expertise in ETL workflows, SQL, Python and database modelling. I design scalable data architectures to transform complex datasets into actionable insights. Dedicated to building robust and efficient solutions, my focus is on enabling data-driven decision-making and delivering measurable results.
+
 </div> 
