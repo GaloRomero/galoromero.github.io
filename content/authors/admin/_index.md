@@ -212,7 +212,5 @@ awards:
 ## About Me
 
 <div style="text-align: justify;">
-
 I am a Software Engineer and Geospatial Data Specialist with expertise in ETL workflows, SQL, Python and database modelling. I design scalable data architectures to transform complex datasets into actionable insights. Dedicated to building robust and efficient solutions, my focus is on enabling data-driven decision-making and delivering measurable results.
-
 </div> 
