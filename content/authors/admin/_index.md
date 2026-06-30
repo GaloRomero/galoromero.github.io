@@ -191,7 +191,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: University lecturer contract 🎓
+  - title: University Lectureship 🎓
     url: https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-predoctorales-formacion-doctoresas-2020
     date: '2021-12-01'
     awarder: Ministerio de Ciencia, Innovación y Universidades
