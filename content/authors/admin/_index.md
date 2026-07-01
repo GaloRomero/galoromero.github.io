@@ -199,7 +199,7 @@ awards:
     
       A lectureship was awarded by Spain's *Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i*, on the basis of academic excellence and proven expertise in database development and Geographic Information Systems. This accolade highlights an exceptional career in research and teaching in this field.
 
-  - title: Academic Excellence 🏆
+  - title: Academic Excellence 🏆 
     url: https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios
     date: '2021-01-01'
     awarder: Universidad de Sevilla
