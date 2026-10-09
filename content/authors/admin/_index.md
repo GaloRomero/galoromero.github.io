@@ -37,7 +37,7 @@ profiles:
 
 interests: 
   - Data Management 
-  - Database Administration
+  - Cloud Services
   - Geospatial Technology
 
 education:
@@ -60,7 +60,11 @@ work:
     date_end: ''
     summary: |2- 
       Responsibilities include:
-      - Responsibilities include developing and maintaining database solutions, ensuring high data quality through structured validation processes within scalable workflows, and providing technical support to clients.
+      - Develop and maintain database solutions, implement data quality validation processes, and optimise scalable data workflows to ensure data consistency, reliability, and integrity.
+      - Develop Machine Learning models to assess and predict physical climate risks associated with banking products, supporting climate risk assessment and data-driven decision-making.
+      - Leverage AWS cloud services, including Amazon S3 for data storage and management and Amazon SageMaker for advanced analytics and Machine Learning workflows.
+      - Use JupyterLab, Apache Spark, and PySpark to process, transform, and analyse large-scale datasets for climate risk modelling.
+      -Contribute to scalable data processing pipelines and predictive analytics workflows to support the assessment of climate-related physical risks and their potential impact on financial portfolios.
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
@@ -213,6 +217,6 @@ awards:
 
 <div style="text-align: justify;">
 
-As a Software Engineer and Geospatial Data Specialist, I have expertise in ETL workflows, SQL, Python and database modelling. I design scalable data architectures to transform complex datasets into actionable insights. Dedicated to building robust and efficient solutions, I focus on enabling data-driven decision-making to deliver measurable results.
+As a Software Engineer and Geospatial Data Specialist, I have expertise in ETL workflows, SQL, Python, database modelling, and cloud services. I design scalable data architectures and leverage cloud technologies to transform complex datasets into actionable insights. Dedicated to building robust, efficient, and scalable solutions, I focus on enabling data-driven decision-making to deliver measurable results.
 
 </div> 
