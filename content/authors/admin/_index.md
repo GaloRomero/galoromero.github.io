@@ -64,7 +64,7 @@ work:
       - Develop Machine Learning models to assess and predict physical climate risks associated with banking products, supporting climate risk assessment and data-driven decision-making.
       - Leverage AWS cloud services, including Amazon S3 for data storage and management and Amazon SageMaker for advanced analytics and Machine Learning workflows.
       - Use JupyterLab, Apache Spark, and PySpark to process, transform, and analyse large-scale datasets for climate risk modelling.
-      -Contribute to scalable data processing pipelines and predictive analytics workflows to support the assessment of climate-related physical risks and their potential impact on financial portfolios.
+      - Contribute to scalable data processing pipelines and predictive analytics workflows to support the assessment of climate-related physical risks and their potential impact on financial portfolios.
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
