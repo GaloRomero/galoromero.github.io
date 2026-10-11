@@ -6,9 +6,9 @@ categories:
   - project
   - finance
 tags:
-  - Data Pipeline Development
+  - geospatial data processing
 ---
 
-Python medallion pipeline implementing complete ETL for processing and validating geospatial datasets.
+Python medallion pipeline implementing end-to-end ETL for processing and validating geospatial datasets.
 
 <!--more-->

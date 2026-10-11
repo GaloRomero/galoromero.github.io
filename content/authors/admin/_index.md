@@ -30,15 +30,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:galoromerogarcia@gmail.com'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/GaloRomero
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/galoromerogarcia/
 
 interests: 
-  - Data Management 
-  - Cloud Services
-  - Geospatial Technology
+  - Data Engineering & Management 
+  - Cloud Computing & Services
+  - Geospatial Data Analytics
 
 education:
   - area: M.Sc in Geography
@@ -61,10 +59,7 @@ work:
     summary: |2- 
       Responsibilities include:
       - Develop and maintain database solutions, implement data quality validation processes, and optimise scalable data workflows to ensure data consistency, reliability, and integrity.
-      - Develop Machine Learning models to assess and predict physical climate risks associated with banking products, supporting climate risk assessment and data-driven decision-making.
-      - Leverage AWS cloud services, including Amazon S3 for data storage and management and Amazon SageMaker for advanced analytics and Machine Learning workflows.
-      - Use JupyterLab, Apache Spark, and PySpark to process, transform, and analyse large-scale datasets for climate risk modelling. 
-      - Contribute to scalable data processing pipelines and predictive analytics workflows to support the assessment of climate-related physical risks and their potential impact on financial portfolios. 
+      - Develop advanced analytics solutions to assess and predict physical climate risks associated with banking products, leveraging AWS services (Amazon S3 and SageMaker), JupyterLab, Apache Spark, and PySpark to process large-scale datasets, build scalable data pipelines, and support data-driven climate risk assessment and decision-making.
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
@@ -155,17 +150,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: SQL Optimization
+      - name: Database Management
         description: ''
         percent: 90
         icon: circle-stack
-      - name: Python for Data Analysis
-        description: ''
-        percent: 75
-        icon: code-bracket
-      - name: R for Data Visualization
+      - name: Python for Data Processing
         description: ''
         percent: 80
+        icon: code-bracket
+      - name: Advanced Analytics
+        description: ''
+        percent: 85
         icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
@@ -173,7 +168,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 80
+        percent: 90
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -181,7 +176,7 @@ skills:
         icon: cat
       - name: Photography
         description: ''
-        percent: 60
+        percent: 80
         icon: camera
 
 languages:
@@ -217,6 +212,6 @@ awards:
 
 <div style="text-align: justify;">
 
-As a Software Engineer and Geospatial Data Specialist, I have expertise in ETL workflows, SQL, Python, database modelling, and cloud services. I design scalable data architectures and leverage cloud technologies to transform complex datasets into actionable insights. Dedicated to building robust, efficient, and scalable solutions, I focus on enabling data-driven decision-making to deliver measurable results.
+As a Software Engineer and Geospatial Data Specialist, I have expertise in data engineering, ETL workflows, SQL, Python, database modelling, and cloud computing. I design scalable data architectures and processing pipelines to transform complex datasets into actionable insights. Dedicated to building robust, efficient, and scalable solutions, I focus on advanced analytics, large-scale data processing, and enabling data-driven decision-making to deliver measurable results.
 
 </div> 

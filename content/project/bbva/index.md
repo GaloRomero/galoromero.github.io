@@ -1,5 +1,5 @@
 ---
-title: Climate Risk Analytics
+title: BBVA
 date: 2026-09-01
 external_link: https://www.bbva.es/personas.html
 categories:
@@ -7,10 +7,11 @@ categories:
   - data
   - machine-learning
 tags:
-  - AWS SageMaker
-  - PySpark
+  - cloud computing
+  - big data
+  - advanced analytics
 ---
 
-Machine Learning workflows for physical climate risk assessment in banking using AWS and advanced analytics.
+Advanced analytics and PySpark workflows for physical climate risk assessment in banking using AWS.
 
 <!--more-->

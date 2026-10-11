@@ -7,11 +7,11 @@ categories:
   - amber
   - networks
 tags:
-  - machine-learning
-  - spatial-analysis
+  - machine learning
+  - spatial analysis
 ---
 
- Machine learning and spatial analysis were employed to investigate archaeological amber trade patterns.
+Machine learning and spatial analysis were used to investigate patterns in archaeological amber trade.
 
 <!--more-->
 
