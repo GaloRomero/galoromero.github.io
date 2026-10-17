@@ -48,7 +48,7 @@ education:
     institution: Universidad de Sevilla
     date_start: 2015-09-15
     date_end: 2019-07-31
-   
+    
 work:
   - position: Software Engineer
     company_name: Nter Tech Services
