@@ -49,7 +49,7 @@ education:
     date_start: 2015-09-15
     date_end: 2019-07-31
     
-work:
+work: 
   - position: Software Engineer
     company_name: Nter Tech Services
     company_url: https://nter.es/
