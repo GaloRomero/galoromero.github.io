@@ -1,8 +1,24 @@
-<footer class="site-footer" style="padding: 1.5rem 0; background-color: #f8f9fa;">
+<style>
+  /* Estilo por defecto (Modo Claro) */
+  .footer-adaptativo {
+    padding: 1.5rem 0;
+    background-color: #f8f9fa; /* Fondo gris claro */
+    color: #333333;            /* Texto oscuro */
+  }
+  
+  /* Estilo para el Modo Oscuro */
+  .dark .footer-adaptativo,
+  [data-theme="dark"] .footer-adaptativo {
+    background-color: #151515 !important; /* Fondo casi negro */
+    color: #ffffff !important;            /* Texto blanco */
+  }
+</style>
+
+<footer class="site-footer footer-adaptativo">
   <div class="container text-center">
     <p style="margin: 0;">
       © {{ now.Format "2006" }} · Licensed under 
-      <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a>
+      <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener" style="color: inherit; font-weight: 500;">CC BY-NC-ND 4.0</a>
     </p>
   </div>
 </footer>
