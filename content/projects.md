@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: Recent projects focus on governance, stewardship, and data management of large datasets.
+      text: Delivering high-quality, scalable data solutions across cloud and enterprise environments.
       filters:
         folders:
           - project
