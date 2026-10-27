@@ -59,7 +59,7 @@ work:
     summary: |2- 
       Responsibilities include:
       - Develop and maintain database solutions, implement data quality validation processes, and optimise scalable data workflows to ensure data consistency, reliability, and integrity.
-      - Develop advanced analytics solutions to assess and predict physical climate risks associated with banking products, leveraging AWS services (Amazon S3 and SageMaker), JupyterLab, Apache Spark, and PySpark to process large-scale datasets, build scalable data pipelines, and support data-driven climate risk assessment and decision-making.
+      - Design and implement advanced analytics solutions to assess and predict physical climate risks associated with banking products, leveraging AWS services (Amazon S3 and SageMaker), JupyterLab, Apache Spark, and PySpark to process large-scale datasets, build scalable data pipelines, and support data-driven climate risk assessment and decision-making.
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
@@ -106,7 +106,7 @@ work:
       - Integration of alphanumeric and geographic data in PostgreSQL/PostGIS databases, and processing of spatial information using GIS
       - Design and development of the geoportal and various internal tools for data consumption and visualisation
       - Testing and validation of the overall system functionality
-      - Data organisation, analysis, processing, and normalisation
+      - Data processing, transformation, validation and normalisation
       - Implementation of routines and automation of network analysis using the SoNIA library in R, and the development of [Shiny](https://shiny.posit.co/) applications for network analysis, geovisualisation tools (geo-viewers), and database interaction
   - position: GIS Technician
     company_name: Evenor-Tech
