@@ -220,8 +220,6 @@ awards:
 
 <div style="text-align: justify;">
 
-## About Me
-
 As a Data Engineer, I focus on designing and optimising scalable data architectures, ETL workflows, and high-performance processing pipelines. With extensive experience in Python, SQL, and database modelling, I work with complex, large-scale datasets to build efficient, reliable, and scalable data solutions.
 
 My expertise spans cloud computing, advanced analytics, and database technologies, enabling me to deliver robust data solutions across different domains. I focus on building resilient systems, implementing data quality processes, and leveraging technology to support data-driven decision-making and deliver measurable value.
