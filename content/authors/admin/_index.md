@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer at Nter Tech Services
+role: Data Engineer at TECDATA
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,16 +50,28 @@ education:
     date_end: 2019-07-31
     
 work:
+  - position: Senior Python Developer
+    company_name: TECDATA
+    company_url: https://tecdata.es/
+    company_logo: ''
+    date_start: 2026-11-18
+    date_end: ''
+    summary: |2- 
+      Responsibilities include:
+      - Designing, developing, and maintaining relational databases and scalable data storage solutions within the banking sector
+      - Building and optimising distributed data processing pipelines using Python, Apache Spark, and Scala
+      - Developing and tuning database logic and complex queries with SQL and PL/SQL
+      - Ensuring high performance, data integrity, and strict compliance with financial security standards
   - position: Software Engineer
     company_name: Nter Tech Services
     company_url: https://nter.es/
     company_logo: ''
     date_start: 2025-09-15
-    date_end: ''
-    summary: |2- 
+    date_end: '2026-11-17'
+    summary: | 
       Responsibilities include:
-      - Develop and maintain database solutions, implement data quality validation processes, and optimise scalable data workflows to ensure data consistency, reliability, and integrity.
-      - Design and implement advanced analytics solutions to assess and predict physical climate risks associated with banking products, leveraging AWS services (Amazon S3 and SageMaker), JupyterLab, Apache Spark, and PySpark to process large-scale datasets, build scalable data pipelines, and support data-driven climate risk assessment and decision-making.
+      - Develop and maintain database solutions, implement data quality validation processes, and optimise scalable data workflows to ensure data consistency, reliability, and integrity
+      - Design and implement advanced analytics solutions to assess and predict physical climate risks associated with banking products, leveraging AWS services (Amazon S3 and SageMaker), JupyterLab, Apache Spark, and PySpark to process large-scale datasets, build scalable data pipelines, and support data-driven climate risk assessment and decision-making
   - position: Geospatial Data Engineer
     company_name: IdenCity
     company_url: https://www.idencityconsulting.com/en/
@@ -82,14 +94,14 @@ work:
     summary: |
       Responsibilities include:
       - Development of relational databases using PostgreSQL
-      - Creation and implementation of web mapping applications with [Leaflet](https://leafletjs.com/)
+      - Creation and implementation of web mapping applications with Leaflet
       - Generation and management of RDF and INSPIRE-compliant metadata
       - Design and maintenance of online databases using Bootstrap Table, HTML5, and CSS3
       - Statistical and spatial analysis using the R programming language
       - Data management and analysis with Pandas and NumPy in Python
       - Spatial data processing with GeoPandas in Python
       - Data visualisation using Matplotlib and Seaborn in Python
-      - Large-scale data processing in [Snowflake](https://www.snowflake.com/es/) using advanced SQL, with a focus on cleaning, transforming, and efficiently modelling datasets
+      - Large-scale data processing in Snowflake using advanced SQL, with a focus on cleaning, transforming, and efficiently modelling datasets
       - University teaching experience in Computer Applications and Statistics
   - position: Geospatial Data Engineer
     company_name: European Commission
@@ -107,7 +119,7 @@ work:
       - Design and development of the geoportal and various internal tools for data consumption and visualisation
       - Testing and validation of the overall system functionality
       - Data processing, transformation, validation and normalisation
-      - Implementation of routines and automation of network analysis using the SoNIA library in R, and the development of [Shiny](https://shiny.posit.co/) applications for network analysis, geovisualisation tools (geo-viewers), and database interaction
+      - Implementation of routines and automation of network analysis using the SoNIA library in R, and the development of Shiny applications for network analysis, geovisualisation tools (geo-viewers), and database interaction
   - position: GIS Technician
     company_name: Evenor-Tech
     company_url: 'https://evenor-tech.com/'
@@ -115,8 +127,6 @@ work:
     date_start: 2020-01-15
     date_end: 2020-06-15
     summary: |
-      Participation in the [CONSOLE](https://cordis.europa.eu/project/id/817949/es) project<br>
- 
       Responsibilities include:
       - Performed statistical analyses using SPSS and R 
       - Prepared and wrote scientific and technical reports 
@@ -139,8 +149,6 @@ work:
     date_start: 2019-03-15
     date_end: 2019-07-30
     summary: |
-      Participation in the [URBAN AUDIT](https://ec.europa.eu/regional_policy/policy/themes/urban-development/audit_en) project<br>
-      
       Responsibilities include:
       - Edited, corrected, and updated spatial data files in various formats using GIS software
       - Managed and analysed spatial databases using SQL for geospatial data extraction and processing  
@@ -156,11 +164,11 @@ skills:
         icon: circle-stack
       - name: Python for Data Processing
         description: ''
-        percent: 80
+        percent: 85
         icon: code-bracket
       - name: Advanced Analytics
         description: ''
-        percent: 85
+        percent: 80
         icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
@@ -212,6 +220,10 @@ awards:
 
 <div style="text-align: justify;">
 
-As a Software Engineer and Geospatial Data Specialist, I have expertise in data engineering, ETL workflows, SQL, Python, database modelling, and cloud computing. I design scalable data architectures and processing pipelines to transform complex datasets into actionable insights. Dedicated to building robust, efficient, and scalable solutions, I focus on advanced analytics, large-scale data processing, and enabling data-driven decision-making to deliver measurable results.
+## About Me
+
+As a Data Engineer, I focus on designing and optimising scalable data architectures, ETL workflows, and high-performance processing pipelines. With extensive experience in Python, SQL, and database modelling, I work with complex, large-scale datasets to build efficient, reliable, and scalable data solutions.
+
+My expertise spans cloud computing, advanced analytics, and database technologies, enabling me to deliver robust data solutions across different domains. I focus on building resilient systems, implementing data quality processes, and leveraging technology to support data-driven decision-making and deliver measurable value.
 
 </div> 
