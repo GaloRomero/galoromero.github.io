@@ -58,10 +58,10 @@ work:
     date_end: ''
     summary: |2- 
       Responsibilities include:
-      - Designing, developing, and maintaining relational databases and scalable data storage solutions within the banking sector
-      - Building and optimising distributed data processing pipelines using Python, Apache Spark, and Scala
-      - Developing and tuning database logic and complex queries with SQL and PL/SQL
-      - Ensuring high performance, data integrity, and strict compliance with financial security standards
+      - Designing and developing Python-based automation solutions for software compilation and build processes within a banking Data Lake environment
+      - Automating Scala code compilation and software artifact generation through Gradle-based build workflows
+      - Developing and maintaining tools and scripts to streamline build processes, improve reliability, and optimise software development workflows
+      - Supporting software integration and build automation within large-scale data engineering environments, ensuring consistency, efficiency, and maintainability
   - position: Software Engineer
     company_name: Nter Tech Services
     company_url: https://nter.es/
@@ -220,6 +220,6 @@ awards:
 
 <div style="text-align: justify;">
 
-As a Data Engineer, I design and optimise scalable data architectures, ETL workflows, and high-performance pipelines. With extensive experience in Python, SQL, and database modelling, I build reliable solutions from complex, large-scale datasets. My expertise covers cloud computing, advanced analytics, and database technologies. I focus on robust systems, data quality, and efficient processing to support data-driven decisions and deliver measurable value across domains.
+As a Data Engineer, I specialise in designing and optimising scalable data architectures, ETL workflows, and data processing solutions. With extensive experience in Python, SQL, and database modelling, I develop reliable data systems, automate complex processes, and work with large-scale datasets. My expertise spans cloud computing, distributed processing, software development, and advanced analytics. I focus on building efficient, maintainable architectures, ensuring data quality, and combining software engineering principles with data management to deliver robust solutions across different domains.
 
 </div> 
