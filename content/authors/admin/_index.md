@@ -169,7 +169,7 @@ skills:
       - name: Data Engineering
         description: ''
         percent: 90
-        icon: gears
+        icon: rectangle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
