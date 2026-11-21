@@ -160,16 +160,16 @@ skills:
     items:
       - name: Database Management
         description: ''
-        percent: 90
+        percent: 95
         icon: circle-stack
-      - name: Python for Data Processing
+      - name: Python Development
         description: ''
         percent: 85
         icon: code-bracket
-      - name: Advanced Analytics
+      - name: Data Engineering
         description: ''
-        percent: 80
-        icon: chart-bar
+        percent: 90
+        icon: diagram-project
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -204,7 +204,7 @@ awards:
     awarder: Ministerio de Ciencia, Innovación y Universidades
     summary: |
     
-      A lectureship was awarded by Spain's *Programa Estatal de Promoción del Talento y su Empleabilidad en I+D+i*, on the basis of academic excellence and proven expertise in database development and Geographic Information Systems. This accolade highlights an exceptional career in research and teaching in this field.
+      Awarded a competitive research and teaching position under Spain’s State Programme for the Promotion of Talent and Employability in R&D&I, based on academic excellence and specialised expertise in database management, SQL, and geospatial data analysis. The position involved university teaching in Computer Applications in Social Sciences, combining technical expertise, research, and academic instruction.
 
   - title: Academic Excellence 🏆 
     url: https://www.us.es/actualidad-de-la-us/la-universidad-de-sevilla-reconoce-560-estudiantes-con-los-premios
@@ -212,7 +212,7 @@ awards:
     awarder: Universidad de Sevilla
     summary: |
     
-      Awarded the Extraordinary Master's Degree in recognition of a combination of rigorous coursework and practical advances in spatial data modelling and database design. The award recognises novel contributions to geospatial data processing, reproducible analytical workflows, and applied solutions that improve data quality and support evidence-based spatial decision-making.
+      Awarded the Extraordinary Master's Degree distinction in recognition of academic excellence and outstanding performance in spatial data modelling, database design, and geospatial analysis. The distinction reflects advanced expertise in geospatial data management, spatial processing, and the development of robust analytical workflows for GIS and database applications.
 
 ---
  
